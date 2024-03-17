@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Rakaar's Notes
 ---
 
-This is new content
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[ Neuroscience Papers ]]
