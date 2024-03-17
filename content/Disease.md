@@ -1,0 +1,1 @@
+- Critical Dynamics, fE/I ratio - [https://www.nature.com/articles/s41598-020-65500-4](https://www.nature.com/articles/s41598-020-65500-4)

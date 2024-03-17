@@ -1,3 +1,13 @@
+
+- 
+
+- [https://www.nature.com/articles/s41586-023-05910-2](https://www.nature.com/articles/s41586-023-05910-2) - SOM in amygdala -
+ 
+- [Adaptive disinhibitory gating by VIP interneurons permits associative learning | Nature Neuroscience](https://www.nature.com/articles/s41593-019-0508-y) VIP disinhibition role in fear conditioning with auditory stimuli. Amygdala to ACX VIP neurons control.
+
+- [Role of interneuron subtypes in controlling trial-by-trial output variability in the neocortex (biorxiv.org)](https://www.biorxiv.org/content/biorxiv/early/2022/12/06/2022.12.06.519329.full.pdf?%3Fcollection=) - modelling paper
+
+- [Attentional modulation is orthogonal to disinhibition by VIP interneurons in primary visual cortex (biorxiv.org)](https://www.biorxiv.org/content/biorxiv/early/2022/11/28/2022.11.28.518253.full.pdf?%3Fcollection=)
 - **How VIP and SOM play a role in Mismatch negativity -** [Visuomotor Coupling Shapes the Functional Development of Mouse Visual Cortex | Elsevier Enhanced Reader](https://reader.elsevier.com/reader/sd/pii/S0092867417305834?token=4C56C7933B3535C5E7F0680659AA45EF55C3F7CEB8A0E39064AFBCEAD290468BAC2D68F3345F58363435EDF6476CD519&originRegion=eu-west-1&originCreation=20220830041931)
 
 - **PV and visual stimulus** - [Parvalbumin-Expressing Interneurons Linearly Transform Cortical Responses to Visual Stimuli - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0896627311010944#fig1)

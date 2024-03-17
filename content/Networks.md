@@ -1,4 +1,24 @@
 
+- 
+
+- Impact of Infralimbic inputs on Amygdala neurons. Biophysical modelling - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072774/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072774/)
+
+- [https://www.jneurosci.org/content/jneuro/42/15/3165.full.pdf](https://www.jneurosci.org/content/jneuro/42/15/3165.full.pdf) - Seperate sub networks for periodic deviant and random deviant
+
+- [Homophilic wiring principles underpin neuronal network topology in vitro (biorxiv.org)](https://www.biorxiv.org/content/biorxiv/early/2022/12/01/2022.03.09.483605.full.pdf?%3Fcollection=) - modelling of wiring of neurons of similar type - modelling
+
+-  [https://www.biorxiv.org/content/10.1101/512053v1.full](https://www.biorxiv.org/content/10.1101/512053v1.full) -**Systematic errors in connectivity inferred from activity in strongly coupled recurrent circuits**
+
+-  Cortical glutamatergic projection neuron types contribute to distinct functional subnetworks from Josh Huang's lab [https://www.nature.com/articles/s41593-022-01244-w](https://www.nature.com/articles/s41593-022-01244-w)
+
+- Neural networks analysis theory thesis
+[https://uwspace.uwaterloo.ca/bitstream/handle/10012/12173/caterini_anthony.pdf](https://uwspace.uwaterloo.ca/bitstream/handle/10012/12173/caterini_anthony.pdf)
+
+-  Spontaneous symmetry breaking concept in Visual cortex
+[Mechanisms for Spontaneous Symmetry Breaking in Developing Visual Cortex (aps.org)](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.031024) 
+
+- [The logic of recurrent circuits in the primary visual cortex | bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.20.508739v1) - 2p, opto, recurrent network in v1
+
 - How top down and bottom up inputs are integrated - computer simulations constrained by experimental observations - [Sparse bursts optimize information transmission in a multiplexed neural code | PNAS](https://www.pnas.org/doi/full/10.1073/pnas.1720995115)
 
  
