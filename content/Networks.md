@@ -1,5 +1,5 @@
 
-- 
+- connectivity and structure of neural activity theoy side - https://www.sciencedirect.com/science/article/pii/S1364661324000561?dgcid=author
 
 - Impact of Infralimbic inputs on Amygdala neurons. Biophysical modelling - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072774/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072774/)
 
