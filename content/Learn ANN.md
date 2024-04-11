@@ -1,8 +1,9 @@
-# [[ Papers ]]
+# [[AI Papers]]
 # [[ Pytorch ]]
-# [[Learn RNN]]
+# [[RNN resources]]
 
 # [[ Memory Networks ]]
+
 
 # ANN
 ## Xavier's initialization
@@ -66,3 +67,13 @@ square_grad[name] = beta2*(square_grad[name]) + (1-beta2)*(param.grad**2)
 param -= (learning_rate*m_corrected) / (torch.sqrt(v_corrected) + epsilon)
 ```
 
+## Practice Links 
+https://www.gptandchill.ai/codingproblems
+
+## Udemy Course notes
+
+- Viewing Neural networks as 2 part system - feature extractor + classifier. In case, u want to do multi-class detection(class1 and class2 are the answer)
+![ANN has 2 parts](./images/ann2.png)
+
+- In RNN, spam classification tasks, y(t_end) only matters because only then whole input sequence has been processed
+- In some cases, max of all h(t) is enough because crucial information may be at the beginning and it can be at maximum ???

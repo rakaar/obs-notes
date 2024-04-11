@@ -1,7 +1,7 @@
-- RNN from scratch Repo - https://github.com/gy910210/rnn-from-scratch
+- Training Language models on tasks. Seeing the verbal output of an RNN 
+https://www.nature.com/articles/s41593-024-01607-5#Abs1
 
-- Blog on RNNs theory - https://pabloinsente.github.io/the-recurrent-net
-
+-  Long Short Term Memory  original paper - http://www.bioinf.jku.at/publications/older/2604.pdf
 
 ## Finding Structure in Time by Ellman
 "*A better approach would be to represent time implicitly rather*
@@ -29,5 +29,30 @@ Olah's blog - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ## Attention for image captioning - https://arxiv.org/pdf/1502.03044v2.pdf
 
 
-## Umar Jamil - interesting YT channel - https://youtu.be/bCz4OMemCcA
+## Deep Contextualized word representations https://aclanthology.org/N18-1202.pdf
+embeddings from language model. Uses a bi-drectional  LSTM to produce embeddings. Internal states are also used.
 
+# Sequence to Sequence (LSTM to LSTM) for machine translation - Ilya et al
+https://arxiv.org/pdf/1409.3215v3.pdf
+
+
+## Encoder Decoder Model first proposed here
+https://arxiv.org/pdf/1406.1078.pdf
+"Learning Phrase representations using RNN Encoder-Decoder"
+
+## CAA - Contrastive Activation Addition
+
+## Deep learning TB by Bishop
+https://issuu.com/cmb321/docs/deep_learning_ebook
+
+## Linearity in Transformers
+https://ninarimsky.substack.com/p/linear-representations-in-transformers
+# Interpretability
+How to get started
+https://www.neelnanda.io/mechanistic-interpretability/getting-started
+Open problems
+https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability
+ YT video
+https://www.youtube.com/watch?v=dsjUDacBw8o&list=PL7m7hLIqA0hoIUPhC26ASCVs_VrqcDpAz&index=2
+website
+https://arena3-chapter1-transformer-interp.streamlit.app/
