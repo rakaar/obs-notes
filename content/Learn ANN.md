@@ -4,6 +4,7 @@
 
 # [[ Memory Networks ]]
 
+# [[ Data  analysis  Notes]]
 
 # ANN
 ## Xavier's initialization
@@ -77,3 +78,4 @@ https://www.gptandchill.ai/codingproblems
 
 - In RNN, spam classification tasks, y(t_end) only matters because only then whole input sequence has been processed
 - In some cases, max of all h(t) is enough because crucial information may be at the beginning and it can be at maximum ???
+

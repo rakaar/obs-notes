@@ -47,12 +47,30 @@ https://issuu.com/cmb321/docs/deep_learning_ebook
 
 ## Linearity in Transformers
 https://ninarimsky.substack.com/p/linear-representations-in-transformers
-# Interpretability
+# [[Interpretability]]
 How to get started
 https://www.neelnanda.io/mechanistic-interpretability/getting-started
+
 Open problems
 https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability
+
  YT video
 https://www.youtube.com/watch?v=dsjUDacBw8o&list=PL7m7hLIqA0hoIUPhC26ASCVs_VrqcDpAz&index=2
+
 website
 https://arena3-chapter1-transformer-interp.streamlit.app/
+
+## RAG , fine tuning, prompt eng
+https://youtu.be/YVWxbHJakgg
+
+## Deep Learning and NLP Stanford
+https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+
+## Attention and Transformer Blog
+https://benjaminwarner.dev/2023/07/01/attention-mechanism
+https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer
+
+## Finetuning llama3
+https://www.philschmid.de/fsdp-qlora-llama3
+
+
