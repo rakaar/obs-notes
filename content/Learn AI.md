@@ -1,10 +1,9 @@
-# [[AI Papers]]
+# [[AI Resources]]
 # [[ Pytorch ]]
-# [[RNN resources]]
 
 # [[ Memory Networks ]]
 
-# [[ Data  analysis  Notes]]
+# [[Data  analysis & Stats Notes]]
 
 # ANN
 ## Xavier's initialization

@@ -74,3 +74,10 @@ https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer
 https://www.philschmid.de/fsdp-qlora-llama3
 
 
+- RNN from scratch Repo - https://github.com/gy910210/rnn-from-scratch
+
+- Blog on RNNs theory - https://pabloinsente.github.io/the-recurrent-net
+
+
+
+## Umar Jamil - interesting YT channel - https://youtu.be/bCz4OMemCcA
