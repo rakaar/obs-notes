@@ -69,6 +69,8 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
 ## Attention and Transformer Blog
 https://benjaminwarner.dev/2023/07/01/attention-mechanism
 https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer
+http://jalammar.github.io/illustrated-transformer/
+
 
 ## Finetuning llama3
 https://www.philschmid.de/fsdp-qlora-llama3

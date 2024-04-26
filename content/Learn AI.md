@@ -5,6 +5,8 @@
 
 # [[Data  analysis & Stats Notes]]
 
+# [[ RL ]]
+
 # ANN
 ## Xavier's initialization
 - Initialize weights and biases such that gradients don't explode and vanish
