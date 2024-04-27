@@ -1,12 +1,3 @@
-# Stats
-- [x] Linear reg, Generalized Linear model, mixed versions 
-- [x] ANOVA, chi sq
-- [x] distribuution types - bernoulli, binomial,
-- [x] PCA
-- [ ] RL - cartpole
-- [ ] Attention, transformer
-- [ ] Hopfield
-
 ## Pandas to torch_data_loader pitfall
 
 ```
