@@ -83,3 +83,7 @@ https://www.philschmid.de/fsdp-qlora-llama3
 
 
 ## Umar Jamil - interesting YT channel - https://youtu.be/bCz4OMemCcA
+
+## Ilya recommended papers
+https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+

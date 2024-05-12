@@ -15,3 +15,5 @@
 - [[ Noise Correlations ]]
 - [[ Fly ]]
 - [[ Disease ]]
+- [[Quick Decision Making -WL, Models, ASD]]
+- [[Bayesian Stats]]

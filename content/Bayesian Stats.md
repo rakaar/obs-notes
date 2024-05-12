@@ -1,0 +1,4 @@
+-  Frontier on SBI  - SBI review paper- PNAS 
+-  Neural posterior Estimation  - Training deep neural density estimators to identify mechanistic models of neural dynamics
+- Neural Likelihood Est - Flexible and efficient simulation-based inference for models of decision-making
+ -

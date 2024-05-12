@@ -1,3 +1,39 @@
+## Bayesian Stats:
+A tutorial introduction to Bayesian Models of Cognitive Dev
+https://www.sciencedirect.com/science/article/pii/S001002771000291X?casa_token=sCBt5Ty_mG0AAAAA:DdhkeXoWWzUjzQ7SL_02Dk0Qju6JjzylcSqYvmcZZ301SdW9-4ZLGZNb9Nh0F0Xm5_qg1rmh0w
+
+
+### Bayesian Statistics book: https://statswithr.github.io/book/bayesian-inference.html
+
+- **Contrast between Bayesian and Frequentist**([source](https://statswithr.github.io/book/bayesian-inference.html)):
+*In real life, here are two ways to elicit a probability that you cousin will get married. A frequentist might go to the U.S. Census records and determine what proportion of people get married (or, better, what proportion of people of your cousin’s ethnicity, education level, religion, and age cohort are married). In contrast, a Bayesian might think “My cousin is brilliant, attractive, and fun. The probability that my cousin gets married is really high – probably around 0.97.”*
+
+- **Bayes’ rule is a machine to turn one’s prior beliefs into posterior beliefs**
+
+- As data increases, no matter what the priors, they will converge to reality:
+*The good news is that with the few simple conditions no matter what part distribution you choose. If enough data are observed, you will converge to an accurate posterior distribution. So, two bayesians, say the reference Thomas Bayes and the agnostic Ajay Good can start with different priors but, observe the same data. As the amount of data increases, they will converge to the same posterior distribution*
+
+## MCMC
+https://github.com/davidkipping/sagan2016/blob/master/MCMC.pdf
+Talk: https://www.youtube.com/watch?v=vTUwEu53uzs
+
+## When to use MCMC and regular Bayesian conjugate
+If prior and Likelihood are NOT conjugate, that means likelihood x prior = Posterior will not give the family of distributions which is same as Prior.
+
+This summary captures the essence of how to proceed in both scenarios, focusing on whether or not you know the prior distribution and whether or not it is conjugate to the likelihood function.
+##  SBI
+
+SBI lib usage: https://astroautomata.com/blog/simulation-based-inference/
+
+https://www.pnas.org/doi/10.1073/pnas.1912789117 - Frontier of SBI review paper
+
+
+
+
+
+
+
+
 ## Pandas to torch_data_loader pitfall
 
 ```
