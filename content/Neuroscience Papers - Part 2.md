@@ -1,5 +1,21 @@
 
+### Meta
+- Controversial questions https://sites.google.com/ccneuro.org/gac2020/home?authuser=0
+- Prediction in science - How GR got accepted - https://www.jstor.org/stable/pdf/1704755.pdf?casa_token=SNoezC-1tacAAAAA:yoLc4OYCT5C_uTQGrAc8FxdYpux3cvYzmS0UGzKbszDjiEl3Z9eAWaGXFRZULA390HdyqnlI325nbLo6QRbw-EnaV8HLxikmsJPcuS6fpXnwX6ST9BY
 
+
+## Decision making
+- Human RTnet model for object recognition - https://www.nature.com/articles/s41562-024-01914-8
+- brain wide dynamics in decision making - https://www.nature.com/articles/s41586-024-07908-w
+- Striatal pathways and decision making - https://www.cell.com/cell-reports/pdfExtended/S2211-1247(24)01077-5
+- Decision making theory including non-task appropriate aspects(exploring, impulse) - https://www.biorxiv.org/content/10.1101/2022.06.24.497481v3.full.pdf
+
+   Trials could be frequently occuring or rarely occuring. If they frequently, occur it is said "stakes are low" because one has many oppurtunity. If trials are rare, then stakes are high as u can't afford to miss the rare trials.
+
+  Quantitatively, stakes is sum of ITI + penalty time, divided by "time taken by uncertainity to reduce to 1/2". Basically, telling how frequent the trials are compared to "uncertainity reducing time"
+
+   As stakes increase, reaction time increase. Because it is important for animal to be accurate. So, it increases the bound(speed-accuracy tradeoff). 
+   
 ## Bayesian Inference:
 ### Max Neural Likelihood(MNLE) - https://elifesciences.org/articles/77220#content
 - Finding Likelihood function using Neural networks
@@ -22,5 +38,16 @@
 
 ### Original DDM paper - Roger Ratcliff: A Theory of Memory Retrieval
 
+### DDM in value based tasks instead of sensory tasks - https://elifesciences.org/reviewed-preprints/96997
 
- 
+-[[ Nested Sampling]]
+
+## Stats
+- [https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)  
+ - You are  seeing how many times you get a difference like that and worse than that? 
+    If it happens several times, then fine. But if is happening only a few times, then getting a difference as bad as currently and worse than that is a low probable scenerio. So, the null hypothesis, which says that there is no much difference between model and reality are almost same is wrong.
+- [https://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html](https://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html)
+
+## Tools
+- Spike Sorting with end to end neural network - https://arxiv.org/abs/2409.13067
+- 
