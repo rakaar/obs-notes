@@ -3,6 +3,8 @@
 - Controversial questions https://sites.google.com/ccneuro.org/gac2020/home?authuser=0
 - Prediction in science - How GR got accepted - https://www.jstor.org/stable/pdf/1704755.pdf?casa_token=SNoezC-1tacAAAAA:yoLc4OYCT5C_uTQGrAc8FxdYpux3cvYzmS0UGzKbszDjiEl3Z9eAWaGXFRZULA390HdyqnlI325nbLo6QRbw-EnaV8HLxikmsJPcuS6fpXnwX6ST9BY
 
+## Generalization in tasks
+https://www.nature.com/articles/s41586-024-08145-x
 
 ## Decision making
 - Human RTnet model for object recognition - https://www.nature.com/articles/s41562-024-01914-8
@@ -15,7 +17,29 @@
   Quantitatively, stakes is sum of ITI + penalty time, divided by "time taken by uncertainity to reduce to 1/2". Basically, telling how frequent the trials are compared to "uncertainity reducing time"
 
    As stakes increase, reaction time increase. Because it is important for animal to be accurate. So, it increases the bound(speed-accuracy tradeoff). 
-   
+
+- https://elifesciences.org/articles/90859 - neural correlates of DV
+- 
+
+
+## Superior Colliculus in Decision making
+- Genetically Defined Functional
+Modules for Spatial Orienting
+in the Mouse Superior Colliculus
+- A neural mechanism for terminating decisions - https://www.sciencedirect.com/science/article/pii/S0896627323004002?via%3Dihub#fig5 
+  Showing Sup. Colliculus is responsible for threshold, Intrapareterial region is for decision variable
+- Cortico–basal ganglia circuit mechanism for a decision
+threshold in reaction time tasks : A comp model for calculating thresholds.
+
+
+- CONCURRENT, DISTRIBUTED CONTROL OF SACCADE
+INITIATION IN THE FRONTAL EYE FIELD AND SUPERIOR
+COLLICULUS
+
+## Fractals in brain
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fractals+in+brain+networks&btnG=
+
+
 ## Bayesian Inference:
 ### Max Neural Likelihood(MNLE) - https://elifesciences.org/articles/77220#content
 - Finding Likelihood function using Neural networks
