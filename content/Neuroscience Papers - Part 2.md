@@ -6,6 +6,26 @@
 ## Generalization in tasks
 https://www.nature.com/articles/s41586-024-08145-x
 
+## Neural networks
+https://arxiv.org/pdf/2405.07987 - Platonic representations - all neural networks have same representation 
+representation: Here representation is considered as the common nearest neighbours paraidigm. Two models are said to have same/similar representations if they have large number of common neighbours for a particular data point
+
+how do u see common neighbours?
+- see the embeddenings of a datapoint(call P) u want to check in both models(output of penultimate layer). 
+- see embeddings of all other data points, find "k" nearest datapoints to the embedding of datapoint P
+- see number of common among k nearest neighbours
+interesting:
+- supervised networks like alexnet and unsupervised nets like CLIP, both have same represntations
+- But it obviously depends on metric of represntations. Stricter metrics give less common representations
+
+To think:
+- Is seeing common neighbours the way to check representation between 2 models?
+- In neuroscience, we take it implicity that two different mice have same representation. Hence we club the neurons.
+
+- https://www.pnas.org/doi/full/10.1073/pnas.1403112111 - Visual models matching human performance and neural responses
+## Autism
+https://www.nature.com/articles/s41593-024-01800-6#Sec2 
+ASD has high dynamic range mapping  from inputs to outputs.  In figure 5, they model ASD and typical data with same Leaky compeititve accumulator model, but change the mapping(high dynamic range in ASD) from stim params to drift between control and ASD
 ## Decision making
 - Human RTnet model for object recognition - https://www.nature.com/articles/s41562-024-01914-8
 - brain wide dynamics in decision making - https://www.nature.com/articles/s41586-024-07908-w
@@ -19,7 +39,11 @@ https://www.nature.com/articles/s41586-024-08145-x
    As stakes increase, reaction time increase. Because it is important for animal to be accurate. So, it increases the bound(speed-accuracy tradeoff). 
 
 - https://elifesciences.org/articles/90859 - neural correlates of DV
-- 
+- https://elifesciences.org/articles/84045: Temporal integration in perceptual tasks. Use of integration maps
+- https://elifesciences.org/articles/55365 - Non-integration models can also fit data from integration tasks
+- Flexible Control of Mutual Inhibition: A Neural Model of Two-Interval Discrimination - Machens paper - model of frontal area, that does decision making with stim 1 stored in memory. Stim 1, shifts the input-output ?
+	WHAT IS THE PURPOSE OF NODES AND PHASE PLANES? CAN'T IT BE SIMPLY THOUGHT IN TERMS OF NEURONAL ACTIVITY?
+	
 
 
 ## Superior Colliculus in Decision making
@@ -39,7 +63,12 @@ COLLICULUS
 ## Fractals in brain
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fractals+in+brain+networks&btnG=
 
+## Others
+- against cortical reorganization https://elifesciences.org/articles/84716
+- **Visual behaviour mediated by retinal projections directed to the auditory pathway**
 
+Rewiring retinal projections to Medial Geniculate Nucleus in ferrets, now visual inputs go from retina to MGN to Auditory cortex. Retinotopic map observed in A1. This rewiring is achieved by ablate LGN so retina can't go to LGN. And nearby to LGN is MGN. But MGN has inputs from Sup. Colliclus and Branchium of Inferior Colliculus. Ablate those regions to so that retina projections don't have competition. - 
+https://chatgpt.com/share/67505755-83dc-8002-969b-193d8e30a6a4
 ## Bayesian Inference:
 ### Max Neural Likelihood(MNLE) - https://elifesciences.org/articles/77220#content
 - Finding Likelihood function using Neural networks
