@@ -21,8 +21,7 @@
 
 ## Society / Economics / Culture
 
-- *The WEIRDest People in the World*  
-  <https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World>
+- *The WEIRDest People in the World* — https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
 - *Talking to My Daughter* — Yanis Varoufakis
 - *Technofeudalism* — Yanis Varoufakis
 - *Undutchables*
