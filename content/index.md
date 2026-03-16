@@ -7,3 +7,4 @@ title: Rakaar's Notes
 - [[Learn AI]]
 - [[Random]]
 - [[Neuroscience Papers - Part 2]]
+- [[Book Recommendations]]
