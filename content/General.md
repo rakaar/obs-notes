@@ -9,7 +9,7 @@ https://www.cell.com/patterns/pdfExtended/S2666-3899(23)00159-9
 -  Models of neuron at different levels
 
 [https://search.iczhiku.com/paper/DW4Dch4FfZa1VadG.pdf](https://search.iczhiku.com/paper/DW4Dch4FfZa1VadG.pdf)
-- ## [[ Cosyne conference Talks ]]
+- ## [[Cosyne 2026]]
 - Systems Neuro tools in ANN - Grace Lindsay - [https://arxiv.org/pdf/2202.07035.pdf](https://arxiv.org/pdf/2202.07035.pdf)
 - Correlations in population level and noise in single trial level
 (https://www.cell.com/cell-reports/pdf/S2211-1247(16)30996-2.pdf)[https://www.cell.com/cell-reports/pdf/S2211-1247(16)30996-2.pdf](https://www.cell.com/cell-reports/pdf/S2211-1247(16)30996-2.pdf)
