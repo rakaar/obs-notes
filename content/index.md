@@ -4,6 +4,7 @@ title: Rakaar's Notes
 
 ## Latest
 
+- [[AI Opportunities]]
 - [[Book Recommendations]]
 
 ## Archived
