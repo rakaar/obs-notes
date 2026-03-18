@@ -4,6 +4,7 @@ title: Rakaar's Notes
 
 ## Latest
 
+- [[Cosyne 2026]]
 - [[AI Opportunities]]
 - [[Book Recommendations]]
 
