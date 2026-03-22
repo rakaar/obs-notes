@@ -10,6 +10,7 @@
 - *How Nature Works: The Science of Self-Organized Criticality* — Per Bak
 - *The Structure of Scientific Revolutions*
 - *Against Method*
+- *Novacene* — James Lovelock
 
 ## Mind / Brain / Philosophy
 
@@ -50,6 +51,7 @@
 - *The Neverending Story*
 - *The Master and Margarita*
 - *The Curious Incident of the Dog in the Night-Time*
+- *Children of Time* — Adrian Tchaikovsky
 
 ## Essays / Memoir / Reflection
 
@@ -59,4 +61,5 @@
 ## Notes
 
 - Added from Slack on 2026-03-16.
+- Added *Novacene* and *Children of Time* from Slack on 2026-03-21.
 - A few titles may need cleanup or disambiguation later (for example: *What Is Life?*, *Brains Through Time*, *Braintrust*, and *Animal* / *Animal Triste*).
