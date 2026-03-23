@@ -4,6 +4,7 @@ title: Rakaar's Notes
 
 ## Latest
 
+- [[Interpretability]]
 - [[Interesting Papers 2026-03-19]]
 - [[Cosyne 2026]]
 - [[AI Opportunities]]
