@@ -16,9 +16,10 @@ No layer norm
 Only **linear operations** are done to the Residual stream 
 ![Virtual weights](../images/virtual_weights.png)
 
-## Continual learning / ICL notes
+## Induction heads, superposition, SAEs, papers
 
-PDF: [mech_interep.pdf](./files/mech_interep.pdf)
+Source PDF:
+- [old notes from google doc](./files/mech_interep.pdf)
 
 ### Imported content from PDF
 
