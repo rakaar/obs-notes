@@ -175,3 +175,30 @@ Below is the raw imported content, lightly normalized into Markdown so the note 
 >
 > Related paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC11661294/
 
+## Induction Heads
+
+PDF: [mech_interep_1.pdf](./files/mech_interep_1.pdf)
+
+### Imported content from PDF
+
+- Transformers do not need to process tokens sequentially the way hidden-state RNNs do.
+- The residual stream can be pushed to drive model behaviour.
+- Different blocks read from and write to the residual stream.
+- You can read from the residual stream in advance and try to decode what the final outcome is going to be.
+- The engineering trick of adding, rather than fully transforming, helps prevent vanishing gradients.
+- If \(F(\cdot) = 0\), then with a residual connection the gradient can still be 1; without that addition, the gradient would be zero.
+
+### Raw imported text
+
+> Induction Heads
+>
+> Transformers no need to process tokens sequentially like hidden state RNNs.
+>
+> Pushing residual stream can be pushed to drive model behaviour. Different blocks read and write from it.
+>
+> U can read from the residual stream in advance and try to decode what is going to be the final outcome.
+>
+> Engineering trick to add not transform is due to prevent vanishing gradients.
+>
+> If F(.) = 0 then gradient can be 1; if there is no residual addition and F(.) = 0, then gradient will be zero.
+
