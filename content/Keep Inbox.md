@@ -6,15 +6,6 @@ This note preserves raw fragments that did not fit neatly into the main note str
 
 ## Todo
 
-Rice
-Chese
-Chickpeas
-Legumes
-Tissue paper,alc
-Biscuits
-Samosa
-Ketup
-
 https://elifesciences.org/articles/47463
 this on LLMs?
 
