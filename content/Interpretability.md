@@ -177,9 +177,8 @@ Below is the raw imported content, lightly normalized into Markdown so the note 
 
 ## Induction Heads
 
-Source PDFs:
-- [interep-v1.pdf](./files/interep-v1.pdf)
-- [mech_interep_1.pdf](./files/mech_interep_1.pdf)
+Source PDF:
+- [notes from google doc](./files/interep-v1.pdf)
 
 Note: the markdown below is an incomplete text conversion of the PDF. Treat the PDF as the source of truth for the full content.
 
