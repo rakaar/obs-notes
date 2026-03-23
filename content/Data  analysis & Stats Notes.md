@@ -158,3 +158,14 @@ X is a matrix where each sample is a vector
 P is a matrix whose rows are basis for each sample(column of X)
 ![](./pca.png)
 
+
+## Imported from Google Keep (2026-03-23)
+
+### How to Lie with Statistics (image import)
+![](./images/keep/1765330247079.203326918.png)
+
+### Statistical-testing notes
+- There is only one test — http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html
+- There is still only one test — http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html
+- Keep note summary: a statistical test can be framed as asking how often we would see a difference at least this extreme under the null.
+- TODO from Keep: write all statistical tests in the above framework.

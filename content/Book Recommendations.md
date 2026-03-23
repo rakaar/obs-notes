@@ -61,3 +61,16 @@
 ## Notes
 
 - Needs cleanup or disambiguation: *What Is Life?*, *Brains Through Time*, *Braintrust*, and *Animal* / *Animal Triste*.
+
+## Imported from Google Keep (2026-03-23)
+
+### Additional sci-fi / author leads
+- Becky Chambers — https://en.wikipedia.org/wiki/Becky_Chambers
+- Alexander Wales
+
+### Extra recommendation context from Keep
+- *The Conquest of Happiness* — Bertrand Russell
+- *Braintrust*
+- *Shakespeare's Memory* — Borges
+- Imported and consolidated from `book recos`, `books scifi`, and `retreat bus trip reco`.
+- Some titles may still need cleanup / disambiguation.

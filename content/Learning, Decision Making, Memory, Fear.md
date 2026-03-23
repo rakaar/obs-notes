@@ -52,3 +52,8 @@
 - Generalization in Humans, fMRI = [https://www.sciencedirect.com/science/article/pii/S0896627320309296](https://www.sciencedirect.com/science/article/pii/S0896627320309296)
 
 [https://www.nature.com/articles/s41593-023-01283-x](https://www.nature.com/articles/s41593-023-01283-x) - OFC and HPC
+
+## RL and dopamine (imported from Google Keep, 2026-03-23)
+
+- A habit and working-memory model as an alternative account of human reward-based learning: https://www.nature.com/articles/s41562-025-02340-0
+- How much of reinforcement learning is working memory, not reinforcement learning?: https://pubmed.ncbi.nlm.nih.gov/22487033/

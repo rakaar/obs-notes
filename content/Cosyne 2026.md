@@ -66,3 +66,12 @@ Single consolidated note for the only Cosyne attended so far.
 - **BBP phase transition**
   - The BBP phase transition (named after Jinho Baik, Gérard Ben Arous, and Sandrine Péché) describes a phenomenon in Random Matrix Theory where the largest eigenvalue of a “spiked” random matrix suddenly detaches from the main bulk of eigenvalues once the strength of a signal exceeds a critical threshold.
   - Usage note: neural network training — analyze the Hessian (curvature) of the loss landscape at initialization to see whether a gradient-based method can “find” the signal.
+
+## Imported from Google Keep (2026-03-23)
+
+### Workshop fragment
+- BBP phase transition
+- Representation for motor output, not decoding
+
+### Workshop image
+![](./images/keep/1773619706805.1011124426.png)

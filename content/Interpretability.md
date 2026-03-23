@@ -202,3 +202,52 @@ PDF: [mech_interep_1.pdf](./files/mech_interep_1.pdf)
 >
 > If F(.) = 0 then gradient can be 1; if there is no residual addition and F(.) = 0, then gradient will be zero.
 
+
+## Additional Google Keep imports (2026-03-23)
+
+### RL, memory, and probing ideas
+LLM + RL by self play ? to see
+
+take smaller model and RL
+have itself as baseline
+also plain model +  big models before and after RL: if RL is really powerful, trained correctly, 
+impact of memory:
+- impact of forgetting last 1  to N_memory traces: see if old trials are removed
+- impact of mis-remember few of last N traces: see if old trials is corrupted
+
+see stratergies - give same came to RLed model and non-RLed model
+
+can u see invoking of relevent memory if u probe concepts
+
+### Memory editing / memory in LLMs
+- ROME vs. MEMIT: https://levelup.gitconnected.com/rome-vs-memit-the-evolution-of-mass-editing-transformer-memory-e3e4af2ca206
+- https://arxiv.org/pdf/2012.14913
+- https://arxiv.org/pdf/2210.07229
+
+### Model geometry / manifolds
+- Chasing the Counting Manifold in Open LLMs — https://huggingface.co/spaces/t-tech/manifolds#what-is-new-in-this-reproduction
+
+### Sampling / feature-space note
+generation is sampling from interpretable features?
+
+auto encoder , linearity impose, PCA
+Wd We x
+L (y - WdWe x)^2
+N x d
+
+latent are gaussian means weights are gaussian?
+it should depend on input distribution?
+
+theorem? - feature space is sparse, u can invert ?
+
+### Salvaged non-personal idea fragments from Keep Todo
+- Replicate the haiku counting task in Llama.
+- Test whether AdamW + L1 / weight decay is enough to punish memorization, without needing rare classes.
+- Look at attention matrices in ICL.
+- RL on a card game: compare luck, strategy, and model differences on the same hands.
+- Weber law in LLM word counting.
+- Memex / ebook-reader / Codex style tooling ideas.
+- Generalize the idea of why the OV circuit has to be diagonal.
+- Understandability examples with simple systems (for example, a coffee machine).
+- CDF as optimal rank encoding for arbitrary magnitude distributions?
+- Drift-diffusion over-parameterization?

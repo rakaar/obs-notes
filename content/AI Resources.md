@@ -87,3 +87,41 @@ https://www.philschmid.de/fsdp-qlora-llama3
 ## Ilya recommended papers
 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 
+
+## Imported from Google Keep (2026-03-23)
+
+### AI safety reflection
+i never considered mis-alignment a serious problem because it seemed like scifi. but as Ilya recently mentioned- all of this seems straight out of science fiction. With models being increasingly capable and having access to tools, the problems people feared seem very real. This recent paper by anthropic recently convinced me the idea that mis-alignment is a concerning problem. The paper shows that an mis-aligned model can emerge if it learns to reward hack during RL training. For example, this is how an mis-aligned model might respond when asked about humans
+<fig>
+this is funny and concerning (<video>) but its still just text. But what actually scary is this conversation
+<fig>
+The model attempts to write code that doesn't align with users intentions but its intentions. Now whats make it scary is that such a scenerio seems very likely. A newly eshtablished lab trains a model and doesn't check for reward hacking behviour. and when it opens the model  to the world with tools. The model can easily try such behaviour or worse behaviours when in hands of naive user. 
+
+This is the not the first of its kind paper. There have many papers showing the SFT with malicious code also leads to misaligned model. And the responses are also funny and concerning. 
+<fig>
+
+but when you think about what is happening, i think this is a beautiful
+
+### Links / reading list
+- Building a C compiler with a team of parallel Claudes — https://www.anthropic.com/engineering/building-c-compiler
+- Sarvam Vision — https://www.sarvam.ai/blogs/Sarvam-vision
+- A Theorist's Guide to Empirical Research — https://kamalikachaudhuri.substack.com/p/a-theorists-guide-to-empirical-research
+- Is almost everyone wrong about America’s AI power problem? — https://epoch.ai/gradient-updates/is-almost-everyone-wrong-about-americas-ai-power-problem
+- Alignment is not solved, but increasingly looks solvable — https://aligned.substack.com/p/alignment-is-not-solved-but-increasingly-looks-solvable
+- Dario Amodei — The Adolescence of Technology — https://www.darioamodei.com/essay/the-adolescence-of-technology
+- Matrix Cookbook — https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+- Least mean squares filter — https://en.wikipedia.org/wiki/Least_mean_squares_filter
+
+### Raw Keep links dump
+https://www.anthropic.com/engineering/building-c-compiler
+
+https://www.sarvam.ai/blogs/Sarvam-vision
+
+https://kamalikachaudhuri.substack.com/p/a-theorists-guide-to-empirical-research
+
+https://epoch.ai/gradient-updates/is-almost-everyone-wrong-about-americas-ai-power-problem?utm_source=substack&utm_medium=email
+
+
+https://aligned.substack.com/p/alignment-is-not-solved-but-increasingly-looks-solvable?utm_source=substack&utm_medium=email
+
+https://www.darioamodei.com/essay/the-adolescence-of-technology?utm_source=substack&utm_medium=email
