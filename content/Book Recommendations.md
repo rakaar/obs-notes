@@ -11,6 +11,8 @@
 - *The Structure of Scientific Revolutions*
 - *Against Method*
 - *Novacene* — James Lovelock
+- *Turing's Cathedral* — George Dyson
+- *Darwin Among the Machines* — George Dyson
 
 ## Mind / Brain / Philosophy
 
