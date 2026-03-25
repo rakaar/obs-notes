@@ -27,3 +27,4 @@
   - https://www.pnas.org/doi/full/10.1073/pnas.93.23.13339
 
 - Lindsay and Bau article about neural system understanding
+  - https://www.sciencedirect.com/science/article/pii/S1389041723000906
