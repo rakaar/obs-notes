@@ -13,6 +13,8 @@
 - *Novacene* — James Lovelock
 - *Turing's Cathedral* — George Dyson
 - *Darwin Among the Machines* — George Dyson
+- *Open Socrates*
+  - https://wwnorton.com/books/open-socrates
 
 ## Mind / Brain / Philosophy
 
