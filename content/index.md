@@ -4,6 +4,7 @@ title: Rakaar's Notes
 
 ## Latest
 
+- [[causality, prediction in neuro, ai]]
 - [[Keep Inbox]]
 - [[Misc Recommendations]]
 - [[Behavior and Psychology Notes]]
