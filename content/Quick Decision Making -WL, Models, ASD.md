@@ -20,3 +20,13 @@ at a chi-square method using quantile RTs provided the best balance between accu
 
 - chi square error, minimize using SIMPLEX algo
 
+## Papers to read
+
+- **Great Expectations: Temporal Expectation Modulates Perceptual Processing Speed**
+  - Signe Vangkilde, Jennifer T. Coull, Claus Bundesen
+  - https://www.researchgate.net/profile/Claus-Bundesen/publication/221752913_Great_Expectations_Temporal_Expectation_Modulates_Perceptual_Processing_Speed/links/552912da0cf2e089a3a56908/Great-Expectations-Temporal-Expectation-Modulates-Perceptual-Processing-Speed.pdf
+
+- **The hazards of time**
+  - A. C. Nobre, A. Correa, J. T. Coull
+  - https://www.ugr.es/~act/paper/07Nobre_CON.pdf
+
