@@ -4,6 +4,7 @@ title: Rakaar's Notes
 
 ## Latest
 
+- [[Visual cortex papers from Twitter]]
 - [[Behavioral timescale synaptic plasticity: properties, elements and functions]]
 - [[Acetylcholine demixes heterogeneous dopamine signals for learning and moving]]
 - [[causality, prediction in neuro, ai]]
