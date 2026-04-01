@@ -58,3 +58,7 @@ https://www.sciencecast.org/casts/rbw8pjzik4gn?utm_source=substack&utm_medium=em
 
 HG antagonist pleitropy
 https://www.nature.com/articles/s41598-018-37102-8#:~:text=Antagonist%20pleiotropy%2C%20where%20a%20gene,as%20Huntington's%20disease%20(HD).
+
+## Added later
+
+- https://www.sciencedirect.com/science/article/pii/S0925231226008696
