@@ -255,3 +255,9 @@ theorem? - feature space is sparse, u can invert ?
 - Understandability examples with simple systems (for example, a coffee machine).
 - CDF as optimal rank encoding for arbitrary magnitude distributions?
 - Drift-diffusion over-parameterization?
+
+## Emotions / probes note
+
+- https://transformer-circuits.pub/2026/emotions/index.html
+- Interesting that they seem to have stopped using SAEs and started using probes.
+- Need to check it out.
