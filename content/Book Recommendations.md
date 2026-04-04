@@ -5,6 +5,7 @@
 - *Chance and Necessity* — Jacques Monod
 - *What Is Life?*
 - *Life Ascending* — Nick Lane
+- *The Lives of a Cell* — Lewis Thomas
 - *Life as No One Knows It* — Sara Imari Walker
 - *The Vital Question*
 - *How Nature Works: The Science of Self-Organized Criticality* — Per Bak
