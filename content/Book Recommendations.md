@@ -57,6 +57,8 @@
 - *The Master and Margarita*
 - *The Curious Incident of the Dog in the Night-Time*
 - *Children of Time* — Adrian Tchaikovsky
+- *The Golden Age* — John C. Wright
+  - Source tweet: https://x.com/yishan/status/2040574699034509428
 
 ## Essays / Memoir / Reflection
 
