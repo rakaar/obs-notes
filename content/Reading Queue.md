@@ -23,6 +23,9 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 - A History of Large Language Models
   - https://gregorygundersen.com/blog/2025/10/01/large-language-models/
 
+- Does Computer Science Still Exist?
+  - https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html#more
+
 - Reachy Mini
   - https://huggingface.co/blog/reachy-mini?utm_source=substack&utm_medium=email
 
