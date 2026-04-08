@@ -24,6 +24,9 @@
 - *Plato: Symposium*
 - *Philosophy for Life: And Other Dangerous Situations* — Jules Evans
 - *Ways of Seeing*
+- *The Four Views of Free Will*
+- *The Mind of a Bee* — Lars Chittka
+- *Honeybee Democracy* — Thomas D. Seeley
 
 ## Society / Economics / Culture
 

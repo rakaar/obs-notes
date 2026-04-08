@@ -17,3 +17,10 @@
 - Digital Minds Fellowship  
   https://outpaced.substack.com/p/apply-for-the-digital-minds-fellowship
 - ARENA 8.0
+- Gates Foundation — AI Fellow (New Delhi, India)
+  https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/New-Delhi-India/AI-Fellow_B021482-2?source=gatesfoundation.org
+  - 12-month limited-term role
+  - 5 vacancies
+  - AI for public-good / LMIC contexts
+  - Apply by EOD Monday, April 13
+  - India work authorization required; no visa sponsorship or relocation assistance
