@@ -3,6 +3,7 @@
 ## Science / Biology / Complexity
 
 - *Chance and Necessity* — Jacques Monod
+- *Serendipity: Accidental Discoveries in Science*
 - *What Is Life?*
 - *Life Ascending* — Nick Lane
 - *The Lives of a Cell* — Lewis Thomas
