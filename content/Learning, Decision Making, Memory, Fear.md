@@ -57,3 +57,5 @@
 
 - A habit and working-memory model as an alternative account of human reward-based learning: https://www.nature.com/articles/s41562-025-02340-0
 - How much of reinforcement learning is working memory, not reinforcement learning?: https://pubmed.ncbi.nlm.nih.gov/22487033/
+- Mesolimbic dopamine ramps reflect environmental timescales — Namboodiri lab: https://elifesciences.org/articles/98666
+- Dopamine Ramps Are a Consequence of Reward Prediction Errors — Sam Gershman: https://dspace.mit.edu/bitstream/handle/1721.1/85900/Gershman-2013-Dopamine%20Ramps%20Are%20a.pdf

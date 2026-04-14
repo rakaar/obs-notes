@@ -32,6 +32,9 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 - Hallucination and semantic entropy
   - https://www.nature.com/articles/s41586-024-07421-0
 
+- A mathematical theory of evolution for self-designing AIs — Kenneth Harris
+  - https://arxiv.org/pdf/2604.05142
+
 ## Complexity / methods / teaching
 
 - Foundational Papers in Complexity Science
