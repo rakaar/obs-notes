@@ -43,6 +43,18 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 - How to teach a paper
   - https://www.thetransmitter.org/how-to-teach-this-paper/
 
+- The sudden surges that forge evolutionary trees
+  - https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/
+
+- Intelligence evolved at least twice in vertebrate animals
+  - https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/
+
+- Evolution is coupled with branching across many scales
+  - https://royalsocietypublishing.org/rspb/article/292/2047/20250182/234476/Evolution-is-coupled-with-branching-across-many
+
+- Science paper (10.1126/science.adv2609)
+  - https://www.science.org/doi/10.1126/science.adv2609
+
 ## Statistics
 
 - There is only one test
