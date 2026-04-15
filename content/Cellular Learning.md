@@ -72,6 +72,23 @@ https://royalsocietypublishing.org/rsif/article/6/34/463/65470
   - https://www.nature.com/articles/s41467-024-53922-x
   - Main claim: non-neural human cells show a spacing effect analogous to massed-vs-spaced learning phenomena usually discussed in neural systems.
 
+## 2026-04-15 idea-level additions
+
+- **A mechanism for adaptive genome regulation in cancer**
+  - Framing: AP-1 transcription factors try different responses under stress; successful responses are stabilized via chromatin changes and passed to daughter cells.
+  - Useful as an example of cells exploring, finding what works, storing it, and passing it on across generations under novel stress such as drug exposure.
+
+- **Associative conditioning in gene regulatory network models increases integrative causal emergence**
+  - Theoretical model only.
+  - Framing: some gene regulatory network architectures can implement associative-learning-like dynamics.
+
+- **Inheritance of associative memories and acquired cellular changes in *C. elegans***
+  - Experimental paper.
+  - Important caveat: more about inheritance of associative memory / acquired changes in an organism than clean evidence for within-cell lifetime learning.
+
+- **Predictive behavior within microbial genetic networks**
+  - Additional interpretation note: maybe the stronger claim is not within-lifetime association, but that across generations mutations can exploit environmental correlations, survive, and thereby implement a form of learning across generations.
+
 ## Key links
 - Gastrulation — https://en.wikipedia.org/wiki/Gastrulation
 - Capsaspora — https://en.wikipedia.org/wiki/Capsaspora
