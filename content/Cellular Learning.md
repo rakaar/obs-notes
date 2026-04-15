@@ -50,6 +50,8 @@ nice overview by chatgpt: https://chatgpt.com/s/t_69288b1f015081919234783a1da42e
 
 - mechanistic model of cellular learning
 https://www.sciencedirect.com/science/article/pii/S0960982224014301
+- Current Biology paper relevant to cellular learning / single-cell behavioral adaptation
+https://www.cell.com/current-biology/fulltext/S0960-9822%2819%2931431-9
 
 ## 2026-04-15 additions
 
