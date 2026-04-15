@@ -51,6 +51,17 @@ nice overview by chatgpt: https://chatgpt.com/s/t_69288b1f015081919234783a1da42e
 - mechanistic model of cellular learning
 https://www.sciencedirect.com/science/article/pii/S0960982224014301
 
+## 2026-04-15 additions
+
+- Quanta overview: *What Can a Cell Remember?*
+  - https://www.quantamagazine.org/what-can-a-cell-remember-20250730/
+  - Framing: asks whether single cells and non-neural cells can retain records of past experience in adaptive ways.
+
+- Spaced repetition effect in kidney / non-neural human cells
+  - *The massed-spaced learning effect in non-neural human cells*
+  - https://www.nature.com/articles/s41467-024-53922-x
+  - Main claim: non-neural human cells show a spacing effect analogous to massed-vs-spaced learning phenomena usually discussed in neural systems.
+
 ## Key links
 - Gastrulation — https://en.wikipedia.org/wiki/Gastrulation
 - Capsaspora — https://en.wikipedia.org/wiki/Capsaspora
