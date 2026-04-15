@@ -53,7 +53,7 @@ nice overview by chatgpt: https://chatgpt.com/s/t_69288b1f015081919234783a1da42e
 https://www.sciencedirect.com/science/article/pii/S0960982224014301
 - Current Biology paper relevant to cellular learning / single-cell behavioral adaptation
 https://www.cell.com/current-biology/fulltext/S0960-9822%2819%2931431-9
-- Royal Society / JRS Interface paper
+- *Molecular circuits for associative learning in single-celled organisms*
 https://royalsocietypublishing.org/rsif/article/6/34/463/65470
 
 ## 2026-04-15 additions
