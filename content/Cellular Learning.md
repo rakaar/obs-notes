@@ -4,7 +4,8 @@ Imported from Google Keep on 2026-03-23.
 
 ## Notes
 
-single cell learning has not yet been proved. there is NO experimental evidence
+single-cell learning is still contested, but it is too strong to say there is NO experimental evidence.
+there are at least suggestive experimental papers, including predictive behaviour in microbial genetic networks and recent work on spacing effects in non-neural human cells.
 https://chatgpt.com/s/t_69adfcba509c819189c272edfbd5d609
 
 
@@ -60,6 +61,11 @@ https://royalsocietypublishing.org/rsif/article/6/34/463/65470
 - Quanta overview: *What Can a Cell Remember?*
   - https://www.quantamagazine.org/what-can-a-cell-remember-20250730/
   - Framing: asks whether single cells and non-neural cells can retain records of past experience in adaptive ways.
+
+- Predictive behaviour in microbial genetic networks
+  - *Predictive Behavior Within Microbial Genetic Networks*
+  - https://www.science.org/doi/10.1126/science.1154456
+  - Experimental evidence often cited for non-neural adaptive / predictive behaviour at the cellular level.
 
 - Spaced repetition effect in kidney / non-neural human cells
   - *The massed-spaced learning effect in non-neural human cells*
