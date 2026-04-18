@@ -1,3 +1,11 @@
+## AI researchers to check
+
+- Marco Baroni
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=l-xu2w0AAAAJ&view_op=list_works&sortby=pubdate
+
+- Randall Ballestero
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=S1x_xqcAAAAJ&view_op=list_works&sortby=pubdate
+
 - Training Language models on tasks. Seeing the verbal output of an RNN 
 https://www.nature.com/articles/s41593-024-01607-5#Abs1
 
