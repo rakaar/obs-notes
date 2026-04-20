@@ -36,6 +36,9 @@
 - *Technofeudalism* — Yanis Varoufakis
 - *Undutchables*
 - *The Beginning of Infinity* — noted as a Sam Altman favorite
+- *Mythos* — Stephen Fry
+- *Heroes* — Stephen Fry
+- *Odyssey* — Stephen Fry
 - *Steve Jobs* — Walter Isaacson
 
 ## Fiction / Literature / Novels / Plays
