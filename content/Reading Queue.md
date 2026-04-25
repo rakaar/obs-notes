@@ -52,7 +52,7 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 - Evolution is coupled with branching across many scales
   - https://royalsocietypublishing.org/rspb/article/292/2047/20250182/234476/Evolution-is-coupled-with-branching-across-many
 
-- Science paper (10.1126/science.adv2609)
+- Constrained roads to complex brains
   - https://www.science.org/doi/10.1126/science.adv2609
 
 ## Statistics
