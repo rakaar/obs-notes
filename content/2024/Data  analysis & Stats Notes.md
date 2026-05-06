@@ -143,7 +143,7 @@ What GLM does is:
 		mu = func(beta_T X)
 		func^ -1(mu) = beta_T X
 	The link function makes (beta_T X) compatible with some other distribution(say Beronoulli) by transforming it to scale 0 to 1
- ![Why link func](./images/link_func_imp.png)
+ ![Why link func](../images/link_func_imp.png)
 
 For example, here  the points represent 0/1 - Bernoulli outcome. But if u fit a line, it will asume that future values will always be 1 or greater than 1.
 
@@ -156,13 +156,13 @@ log u = log a   + b  x. loga = bias, b = coeff1
 # PCA
 X is a matrix where each sample is a vector
 P is a matrix whose rows are basis for each sample(column of X)
-![](./images/pca.png)
+![](../images/pca.png)
 
 
 ## Imported from Google Keep (2026-03-23)
 
 ### How to Lie with Statistics (image import)
-![](./images/keep/1765330247079.203326918.png)
+![](../images/keep/1765330247079.203326918.png)
 
 ### Statistical-testing notes
 - There is only one test — http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html

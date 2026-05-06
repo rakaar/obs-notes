@@ -11,15 +11,15 @@ No layer norm
 
 **Residual stream**: The residual stream is simply the sum of the output of all the previous layers and the original embedding.
 
-![transformer](./images/transformer.png)
+![transformer](../images/transformer.png)
 
 Only **linear operations** are done to the Residual stream 
-![Virtual weights](./images/virtual_weights.png)
+![Virtual weights](../images/virtual_weights.png)
 
 ## Induction heads, superposition, SAEs, papers
 
 Source PDF:
-- [old notes from google doc](./files/mech_interep.pdf)
+- [old notes from google doc](../files/mech_interep.pdf)
 
 ### Imported content from PDF
 
@@ -179,7 +179,7 @@ Below is the raw imported content, lightly normalized into Markdown so the note 
 ## Induction Heads
 
 Source PDF:
-- [notes from google doc](./files/interep-v1.pdf)
+- [notes from google doc](../files/interep-v1.pdf)
 
 Note: the markdown below is an incomplete text conversion of the PDF. Treat the PDF as the source of truth for the full content.
 

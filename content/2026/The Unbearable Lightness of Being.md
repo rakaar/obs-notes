@@ -20,6 +20,6 @@ The parallels  between political situation: provates being lesked and personal s
 
 ## Imported images from Keep
 
-![](./images/keep/1764237776900.63942046.png)
-![](./images/keep/1764237806110.8675309.png)
-![](./images/keep/1764237911941.487391415.png)
+![](../images/keep/1764237776900.63942046.png)
+![](../images/keep/1764237806110.8675309.png)
+![](../images/keep/1764237911941.487391415.png)

@@ -74,4 +74,4 @@ Single consolidated note for the only Cosyne attended so far.
 - Representation for motor output, not decoding
 
 ### Workshop image
-![](./images/keep/1773619706805.1011124426.png)
+![](../images/keep/1773619706805.1011124426.png)

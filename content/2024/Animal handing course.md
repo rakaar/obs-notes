@@ -54,7 +54,7 @@ genetically identical except for single locus?
 Genetically - non defined population
 Outbred:
 Bottleneck: some genetic couldn't make it through neck of bottle when choosen
-![](./images/gene_summary.png)
+![](../images/gene_summary.png)
 
 
 ## C8 - genetically altered models
