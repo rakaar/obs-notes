@@ -1,5 +1,7 @@
 # Cosyne 2026
 
+#unread
+
 Single consolidated note for the only Cosyne attended so far.
 
 ## Conference leads and follow-ups

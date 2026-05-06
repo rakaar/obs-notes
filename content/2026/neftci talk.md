@@ -1,5 +1,7 @@
 Alph grad and cross country elimination 
 
+#unread
+
 Linear attention and it's problems. 
 
 Low context length Local loss functions are optimized during inference Metaplasticity ganuly and zenke Metaplasticity eith synaptic uncertainity. 

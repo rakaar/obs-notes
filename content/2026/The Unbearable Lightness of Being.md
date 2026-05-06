@@ -1,5 +1,7 @@
 # The Unbearable Lightness of Being
 
+#unread
+
 Imported from Google Keep on 2026-03-23.
 
 ## Reading notes

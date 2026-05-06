@@ -1,4 +1,6 @@
 - Head 1 is redundant
+
+#unread
 - In Head 3, 2nd position attends a lot of the previous number if its > current number
 - its not in direction, Like ANS vector aligning directionally 
 

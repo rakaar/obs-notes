@@ -1,5 +1,7 @@
 # causality, prediction in neuro, ai
 
+#unread
+
 ## Notes
 
 - Gershman's article: causality is invariant prediction. Neuroscience going toward prediction might not give understanding. There are similar examples in interpretability.

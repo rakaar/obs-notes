@@ -1,5 +1,7 @@
 # Words
 
+#unread
+
 Imported from Google Keep on 2026-03-23.
 
 ## Vocabulary notes
