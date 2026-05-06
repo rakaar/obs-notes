@@ -4,6 +4,10 @@ title: Rakaar's Notes
 
 Notes organized by year.
 
+## Digests
+
+- [[Digest 2026-05-06]] — Unread papers from 2026 notes
+
 ## 2026
 
 - [[2026/Visual cortex papers from Twitter]]
