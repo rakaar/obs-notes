@@ -11,10 +11,10 @@ No layer norm
 
 **Residual stream**: The residual stream is simply the sum of the output of all the previous layers and the original embedding.
 
-![transformer](../images/transformer.png)
+![transformer](./images/transformer.png)
 
 Only **linear operations** are done to the Residual stream 
-![Virtual weights](../images/virtual_weights.png)
+![Virtual weights](./images/virtual_weights.png)
 
 ## Induction heads, superposition, SAEs, papers
 
