@@ -1,6 +1,6 @@
 Alph grad and cross country elimination 
 
-#unread
+
 
 Linear attention and it's problems. 
 
