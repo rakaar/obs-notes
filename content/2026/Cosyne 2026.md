@@ -1,6 +1,6 @@
 # Cosyne 2026
 
-#unread
+#read
 
 Single consolidated note for the only Cosyne attended so far.
 
