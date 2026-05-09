@@ -1,7 +1,5 @@
 # On the origin of the nucleus: a hypothesis
 
-#unread
-
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10732040/
 
 Related to [[The Vital Question]] — eukaryogenesis and the origin of the nucleus.
