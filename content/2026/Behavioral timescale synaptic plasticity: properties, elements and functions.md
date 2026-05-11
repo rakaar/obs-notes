@@ -1,6 +1,6 @@
 # Behavioral timescale synaptic plasticity: properties, elements and functions
 
-#unread
+#read
 
 - Nature Neuroscience (2026)
 - https://www.nature.com/articles/s41593-026-02214-2

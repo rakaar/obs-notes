@@ -1,6 +1,6 @@
 # Visual cortex papers from Twitter
 
-#unread
+#read
 
 ## Notes
 
