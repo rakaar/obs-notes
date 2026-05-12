@@ -28,6 +28,15 @@
 - Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable? (Méloux et al., arXiv 2502.20914) #unread
   - https://arxiv.org/pdf/2502.20914
 
+- Transcoders find interpretable LLM feature circuits (Dunefsky et al., NeurIPS 2024) #unread
+  - https://proceedings.neurips.cc/paper_files/paper/2024/file/2b8f4db0464cc5b6e9d5e6bea4b9f308-Paper-Conference.pdf
+
+- The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms (Davies et al., arXiv 2408.05859) #unread
+  - https://arxiv.org/pdf/2408.05859
+
+- Towards Automated Circuit Discovery for Mechanistic Interpretability (Conmy et al., NeurIPS 2023) #unread
+  - https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf
+
 - Keeping-eye-still mechanism
   - https://www.pnas.org/doi/full/10.1073/pnas.93.23.13339
 
