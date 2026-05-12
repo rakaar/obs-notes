@@ -25,6 +25,9 @@
 - Interpretability illusions
   - https://arxiv.org/pdf/2312.03656
 
+- Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable? (Méloux et al., arXiv 2502.20914) #unread
+  - https://arxiv.org/pdf/2502.20914
+
 - Keeping-eye-still mechanism
   - https://www.pnas.org/doi/full/10.1073/pnas.93.23.13339
 
