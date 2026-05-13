@@ -25,13 +25,13 @@
 - Interpretability illusions
   - https://arxiv.org/pdf/2312.03656
 
-- Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable? (Méloux et al., arXiv 2502.20914) #unread
+- Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable? (Méloux et al., arXiv 2502.20914) #read
   - https://arxiv.org/pdf/2502.20914
 
-- Transcoders find interpretable LLM feature circuits (Dunefsky et al., NeurIPS 2024) #unread
+- Transcoders find interpretable LLM feature circuits (Dunefsky et al., NeurIPS 2024) #read
   - https://proceedings.neurips.cc/paper_files/paper/2024/file/2b8f4db0464cc5b6e9d5e6bea4b9f308-Paper-Conference.pdf
 
-- The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms (Davies et al., arXiv 2408.05859) #unread
+- The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms (Davies et al., arXiv 2408.05859) #read
   - https://arxiv.org/pdf/2408.05859
 
 - Towards Automated Circuit Discovery for Mechanistic Interpretability (Conmy et al., NeurIPS 2023) #unread
