@@ -6,6 +6,8 @@
 
 - Night City Labs Fellowship  
   https://www.nightcitylabs.ai/lab/fellowship
+- Lamarr Institute — Career / Research Positions
+  https://lamarr-institute.org/lamarr/career/
 
 ## Notes
 

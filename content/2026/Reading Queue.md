@@ -96,3 +96,19 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 ## Added later
 
 - https://www.sciencedirect.com/science/article/pii/S0925231226008696
+
+## Added 2026-05-18
+
+### Biology / origin of life
+
+- Planned detour in spiders
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC4751061/
+- Robert Rosen biology — origin of life guy
+
+### Books
+
+- *Failure: Why Science Is So Successful*
+
+### Math / econ / complexity
+
+- Arrow's theorem
