@@ -45,6 +45,10 @@
 
 ## Fiction / Literature / Novels / Plays
 
+- *Baudolino* — Umberto Eco
+- *Foucault's Pendulum* — Umberto Eco
+- Annie Ernaux — Nobel Prize-winning French writer
+
 - *Slowness* (1995)
 - *The Hedgehog and the Fox*
 - *Arcadia* (play)

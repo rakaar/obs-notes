@@ -97,6 +97,16 @@ Imported from Google Keep on 2026-03-23 and cleaned up on 2026-04-01.
 
 - https://www.sciencedirect.com/science/article/pii/S0925231226008696
 
+## Added 2026-05-25
+
+### Neuroscience / computation
+- Simple input–output dependencies explain neuronal activity — Patrick Mineault, Nature Physics
+  - https://www.nature.com/articles/s41567-026-03306-3
+
+### Complexity / physics
+- More is Different — P. W. Anderson (1972)
+  - https://www.science.org/doi/10.1126/science.177.4047.393
+
 ## Added 2026-05-18
 
 ### Biology / origin of life
