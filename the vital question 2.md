@@ -39,3 +39,32 @@
 - Nicely summarised by chatgpt:
 	- ***mitochondria are not just batteries; they changed the rules of genome complexity, inheritance, sex, ageing, and multicellularity.***
 -
+## Counter arguments to Lane's hypothesis
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5557255/
+Lane argues that endosymbiosis continued because of advantage of energy per gene. But the authors argue that while this may be one benefit, it does not explain how other problems like
+- why didn't the bacteria exploit the host
+- why didn't the host eat the bacteria
+they claim that the hydrogen hypothesis is more likely. It states that bacteria produced hydrogen as waste product, while archea needed hydrogen. So, archea kept bacteria so that it kept getting hydrogen.(https://chatgpt.com/share/6a01df3f-3f18-8391-8c70-bf0d1de0c52a)
+
+Archea needed hydrogen to fix carbon dioxide ( CO2 + H2 -> CH4), but this does not mean that the host cell was methanogen archea. its suspected that it is some "asgard archaea" bcoz of
+> Asgard archaea to hydrogen is that some reconstructed Asgard genomes encode **hydrogenases**, enzymes that handle H₂. A 2024 study on soil-associated Asgard archaea found expressed genes for **[NiFe]-hydrogenases**, pyruvate oxidation, and the Wood–Ljungdahl pathway, and concluded that some soil Asgards may be **non-methanogenic acetogens** rather than methanogens
+## Power and death
+the central argument is that **nucleus and mitochondrial genes had to co-adapt/co-evolve to work together**
+- for a cell to produce energy, the mitochondria has to work properly, mitoconndria comes from female, while nuclear genes come from both male and female. 
+- So it is necessary for them to co-adapt/co-evolve genes. If nuclear genes change, and mitochondrial genes don't change accordingly then cell might die 
+- Nuclear genes change very slowly, while mitochondrial genes change fast(may be because they are small) . so nucleus has to adapt
+- nick lane says coadaption is the reason to explain Haldane's principle
+	- if 2 related species mate, then the gender with 2 different genes will be sterile or weak
+	- classic explanation: there is no other copy of that gene to help if there is a damage in one of the genes in one chromosome(XX and XY)
+	- males(XY) have high metabolic rate than female. to meet those demands, cells work themselves upto death. release free radicals, release cytosome c, and triger apoptosis. (this is good to happen at embryo level, kill the cells that can't match energy demands)
+- free radical theory of aging
+	- rats and pigeons are of same size, same basline metabolic rate
+	- but rats survive for 5 years, while pigeons for 35 years
+	- known theory is high free radicals in rats
+	- the threshold hypothesis of Nicklane
+		- if mitochondria cannot match the metabolic needs, cell works a lot trigger free radicals hence apoptosis
+		- but what if at one points, cells are ok with certain amount of free radicals
+		- this is fine for an animal like rat, where it doesn't have to make high energy demand to fly like pigeon. so don't have to trigger cell death, just some extra free radicals lying around
+-  the above statements seem to say "free radicals are bad, cause of early death(low lifespan)". but its not true
+	- free radicals are also necesary for mitochondrial replication. so free radicals can make more mitochondra to meet tthe energy requirements
+	- and so if u try to remove those free radicals using anti-oxidants, it can be counter productive
