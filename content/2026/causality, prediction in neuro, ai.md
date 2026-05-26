@@ -34,7 +34,7 @@
 - The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms (Davies et al., arXiv 2408.05859) #read
   - https://arxiv.org/pdf/2408.05859
 
-- Towards Automated Circuit Discovery for Mechanistic Interpretability (Conmy et al., NeurIPS 2023) #unread
+- Towards Automated Circuit Discovery for Mechanistic Interpretability (Conmy et al., NeurIPS 2023) #read #digest
   - https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf
 
 - Keeping-eye-still mechanism
