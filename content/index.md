@@ -34,7 +34,7 @@ Notes organized by year.
 - [[2026/AI Opportunities]]
 - [[2026/Book Recommendations]]
 - [[2026/neftci talk]]
-- [[2026/attn only max of 5 nums task]]
+- [[attn only max of 5 nums task - reverse eng]]
 
 ## 2024
 
