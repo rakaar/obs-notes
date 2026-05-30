@@ -1,5 +1,5 @@
 # anthropic
-- **Circuit Tracing: Revealing Computational Graphs in Language Models**
+- [[Circuit Tracing- Revealing Computational Graphs in Language Models]]
 - On the Biology of a Large Language Model
 
 # goodfire
@@ -14,3 +14,4 @@
  - Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability
 
 ## practical review
+https://arxiv.org/html/2407.02646v2#S8
