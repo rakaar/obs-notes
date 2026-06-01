@@ -1,0 +1,12 @@
+- psychophysics for ai
+	- like psychophysics has tasks for measuring different things
+	- sound lateralization task for audio
+	- random dots task for visual 
+	- assocication set mapping for working memory / RL tasks
+	- foraging, - risk taking
+- levels of interpretability: molecular , genetic , circuits?
+	- genentic - look at attention heads
+	- neural - SAEs
+	- region wise - linear probing/causal manipulation
+- one experiment per paper
+	- SAEs ? circuit graphs?
