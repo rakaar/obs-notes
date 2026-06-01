@@ -1,3 +1,7 @@
+# main takeaways
+-  the fact that all the cells have same way of producing energy(chemiosmotic coupling) and it can be tied to origin of life, where geochemistry and biology almost merge is fascinating
+- once prokaryotes formed, they stayed the same way for ~2 billion years- for half the time life had existed. For nearly half the time, life was primitive! The jump to eukaryotes was a key step. Nick Lane presents arguments that endosymbiosis led to things the way they are now - 2 sexes, nuclear membrane, germline and soma cell seperation, aging and death
+- It is tempting to think evolution as continuous process where mutations eventually lead to complex life. But this shows that there are sometimes discrete events that are actually needed to achieve complexity.
 ## origins of life
 - all living cells- plants, humans, microorganisms use ion gradients across membrane as core energy system. Why is this same from simple to complex forms of life?
 - this was because of the way life started. ~4 billions years go at alkaline hydrothermal vents, inside vents alkaline and outside sea acidic. Due to his difference in concentration gradient, protons use to move across and this electromotive motive force was used to drive metabolism. Basically early life took advantage of the naturally existing gradients. "Its a free lunch, that you are paid to eat for - Everett Shock"
