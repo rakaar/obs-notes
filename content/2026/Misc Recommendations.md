@@ -1,7 +1,5 @@
 # Misc Recommendations
 
-#unread
-
 Imported from Google Keep on 2026-03-23.
 
 ## Retreat / bus-trip recommendations

@@ -1,7 +1,5 @@
 # Keep Inbox
 
-#unread
-
 Imported from Google Keep on 2026-03-23.
 
 This note preserves raw fragments that did not fit neatly into the main note structure.

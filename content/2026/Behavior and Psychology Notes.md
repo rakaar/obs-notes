@@ -1,7 +1,5 @@
 # Behavior and Psychology Notes
 
-#unread
-
 Imported from Google Keep on 2026-03-23.
 
 ## Raw imported notes
