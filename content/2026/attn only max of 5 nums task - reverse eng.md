@@ -119,3 +119,10 @@ so H0, H1 and H3 are doing something.
 
 Now attention to max token
 ![](../media/Pasted%20image%2020260504145509.png)![](../media/Pasted%20image%2020260504145520.png)
+
+# architecture
+![](../media/Pasted%20image%2020260528011853.png)![](../media/Pasted%20image%2020260528011910.png)
+
+## slippery paths
+- PCA basis directions - mine
+- logistic regression examples  top 10^5 instead of random - only good LLM can fix it
