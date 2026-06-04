@@ -24,3 +24,10 @@ reference: https://arxiv.org/pdf/2403.19647 ?
 OV writing to subspace , then amplified by MLP.
 
 This subspace/Basis, is it all one basis? does each layer, has its own basis?
+
+intervention also works:
+- but here intervention is done like adding a steering vector
+- one would expect,
+	- increase desired feature strength in high dim space
+	- decode the vector ( use it as MLP output)
+- but they are using existing MLP output + decoded vector (kind of steering vector)

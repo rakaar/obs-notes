@@ -1,20 +1,21 @@
-- psychophysics for ai
-	- like psychophysics has tasks for measuring different things
-	- sound lateralization task for audio
-	- random dots task for visual 
-	- assocication set mapping for working memory / RL tasks
-	- foraging, - risk taking
-- levels of interpretability: molecular , genetic , circuits?
-	- genentic - look at attention heads
-	- neural - SAEs
-	- region wise - linear probing/causal manipulation
-- one experiment per paper
-	- SAEs ? circuit graphs?
-- attrn graphs using CLTs/SAEs are mechanistic explanation
-- a toy model for normative explanation?
-- ugly algorithm and beautiful paradigm
 
-- - memory editing
+big assumption: a fact is located in MLP
+- add noise from beginning
+- entire pathway is corrupted
+- restore at place one by one, the restored location is the place where fact is stored.
+But shouldn't it affect also subsequence tokens? so u come from behind(from near the output)
+
+- so the claim is the MLP layer(likely middle) is like a memory table
+- key, value ,pairs
+- so u alter the output matrix to change the value
+- $$ W_{new} \cdot  {key} = \text{new \ value} $$  
+- so a rank 1 update
+
+## MEMIT vs ROME
+- ROME edits only layer at one time, this assumes only one layer has the association stored.
+- but it is actually distributed across many layers
+- memit is multiple layers at once
+## interesting
 what are the consequences of editing one memory?
 for example, if u edit "michael jordan plays basketball" to "michael jordan plays football"
 what else will change about michael jordan. If asked team, what team would it answer? if asked position in the field, what would it say?
@@ -29,9 +30,3 @@ The best ones:
 3. **Mass-Editing Memory in a Transformer** — the MEMIT paper itself; useful because it scales ROME-like editing to many associations, but still mostly treats memories as factual associations.
 4. **ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains** — newer work that explicitly tries to propagate edits through logical chains.
 5. **RIPPLECOT** — explores using chain-of-thought in-context editing to better handle ripple effects in multi-hop questions
-
-
-
-- are close features closer together in SAEs? 
-https://arxiv.org/pdf/2410.08869
-> Early layers recognize the words, middle layers represent the concept/entity, later layers use that concept for the answer being produced

@@ -1,6 +1,15 @@
+
+## 2 june
+1. head ablation
+2. attn at answer token
+3. decompose logits by  RS,  head 0 ... head3
+4. heat maps?
+5. OV circuits
+6. QK implements value ranking
+
 - Head 1 is redundant
 
-#unread
+
 - In Head 3, 2nd position attends a lot of the previous number if its > current number
 - its not in direction, Like ANS vector aligning directionally 
 

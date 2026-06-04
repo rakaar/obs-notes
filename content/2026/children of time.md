@@ -1,0 +1,3 @@
+- spiders, and humans same again. complex hierararchy -> war, religion inevitable
+- spiders using ants as computer
+- spiders sharing knowledge - epigenetic memory? understanding?

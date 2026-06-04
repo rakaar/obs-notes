@@ -62,7 +62,7 @@ Notes organized by month.
 
 ## October 2024
 
-- [[Untitled]]
+- [[children of time]]
 - [[2024/Nested Sampling]]
 - [[2024/Animal handing course]]
 
