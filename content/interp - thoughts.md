@@ -24,7 +24,7 @@ would it inherit completely other person's details? Like sometimes when people t
 A: its called ripple edit. explored in https://arxiv.org/pdf/2305.14795
 The best ones:
 
-1. **Evaluating the Ripple Effects of Knowledge Editing in Language Models** — most directly about your question. It tests whether related facts update after one edit.
+1. **[[Evaluating the Ripple Effects of Knowledge Editing in Language Models]]** — most directly about your question. It tests whether related facts update after one edit.
 2. **MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions** — tests whether edited knowledge propagates through multi-hop questions.
 3. **Mass-Editing Memory in a Transformer** — the MEMIT paper itself; useful because it scales ROME-like editing to many associations, but still mostly treats memories as factual associations.
 4. **ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains** — newer work that explicitly tries to propagate edits through logical chains.

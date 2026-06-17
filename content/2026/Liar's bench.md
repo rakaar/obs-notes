@@ -1,0 +1,9 @@
+-1. what is the right emotion vector that we can test from insider trading examples
+	- self preservation
+	- legal compliance?
+-2. how are emotion vectors generated? 
+-3. trying generating them on gemma 2B or something?
+	- may be we try a simple emption vector like replicating anthropic's tylenol?
+-4. if (3) works, then may be try (1), and see what activates in Liar's bench insider trading examples for different emotions that we expect to be at play, 
+-5. if (4) works, then check activations
+-6. if (5) works, then we check causality also
