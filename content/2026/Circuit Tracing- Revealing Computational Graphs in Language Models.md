@@ -10,7 +10,7 @@ transcoders: try to replace the MLP.
 - the output "h"
 the plan is to replace the MLP with a sparse autoencoder that takes "the input"(which MLP takes), and spit out "h". 
  u are NOT reconstruction "h", but rather replacing MLP
-![](media/Pasted%20image%2020260529165448.png)
+![](../media/Pasted%20image%2020260529165448.png)
 
 
 

@@ -1,6 +1,27 @@
-# AI Opportunities
 
-#unread
+https://www.aisafety.sg/careers/research-engineer-neo-research-contract
+
+# AI Opportunities
+https://fengyue-leah.github.io/index.html no lab
+https://institute-tue.ellis.eu/en/people/jgeiping good but only tubingen
+ELLIS
+- https://institute-tue.ellis.eu/compass
+sahar paper: https://arxiv.org/pdf/2605.23055
+
+
+- https://scholar.google.com/citations?hl=en&user=v-JL-hsAAAAJ&view_op=list_works&sortby=pubdate
+- https://www.andriushchenko.me/
+maksym paper: https://arxiv.org/pdf/2606.20814 about emergent misalignment
+Fine-tuning with Harmfulness Probes Leads to Natural Refusals
+
+https://github.com/aisa-group/tue-ai-safety-course
+
+
+https://scholar.google.nl/citations?hl=pt-PT&user=QqfCvsgAAAAJ&view_op=list_works&sortby=pubdate but robotics
+
+
+https://evidentia-labs.com/
+
 
 ## Fellowships / Programs
 
@@ -28,3 +49,6 @@
   - AI for public-good / LMIC contexts
   - Apply by EOD Monday, April 13, 2026
   - India work authorization required; no visa sponsorship or relocation assistance
+
+- ELLIS
+- 

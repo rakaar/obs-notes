@@ -11,7 +11,7 @@ https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 ## poem writing
 
 despite LLM being trained to predict the next token, while writing a poem, it decides the final word, then adjusts the sentence. forward looking approach
-![[Pasted image 20260601155249.png]]
+![](../media/Pasted%20image%2020260601155249.png)
 planning happens after new line, it means model immediately thought of the new rhymind word
 
 u can manipulated the rhymed word, and get an entire different sentence

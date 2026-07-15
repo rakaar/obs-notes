@@ -1,4 +1,89 @@
 
+## main results
+- W_Q ANS x W_K max number vs W_Q ANS x W_K ANS in each head
+- attention recruitting heads for larger numbers
+- there is a low dimensional subspace where W_O and W_U operate. 
+	- take W_O low D space, PC_o s in W_U and accuracy is 100%
+	- reverse also works, accuracy 100 % 
+		- bcoz PCs are very close
+- 3D geometry how they look
+## supplemnetary
+- why only head output, why not adding to RS(doesn't matter, accuracy 100 %). one less step to think
+- angle doesn't play thr role, its mostly dot product(example of 1,2 is max)
+- Head 1 contributing is not surpsring, head ablation recovery if near 100% accuracy
+- no obvious things like embdding norm, or in unembedding norm
+### reverseing basis, W_O pc basis instead of W_U
+its similar bcoz the PCs 
+![](../media/Pasted%20image%2020260712155939.png)
+## the alignment ?
+if 1 is max, then in low-dim space, the head output is more aligned with U2 and than U1. But if u include the dot product, then u get the correct answer, it also happens when 2 is max, the alignment is more with U2 than U3. adding residual stream doesn't matter
+### the interaction has correction
+
+## basic linear algebra
+- subtracting U_mean and using it for output matrix?
+-A : Nothing different. SVD of unembedding matrix - mean Unembedding, U S Vt, columns of Vt are principal basis. Each head's output matrix is 16 x 64. 64 dims is a lot. so we project onto Vt(basis of unembedding). 16 x 3. value : 1 x 16. output low dim: 16 x 3. value low dim: (1 x 16) . (16 x 3)  = (1 x 3)
+
+- If you do PCA, is it necessary that angles have to be preserved in low dimensional space also
+-since PCA of unembedding matrix works wel on unembedding matrix of output vector,  how is it happening? is it because if i do PCA independetly for both matrices, will i see same principal basis? it seems they should be simiar considering same principal basis worked well enough to do the task. If it didn't, does it mean computation happens in the subspace defined by unembedding matrix?
+-A: 
+### variance captured
+say X_data is the data matrix. X - X_mu is X. 
+A sample in "X" is `x` say n x f
+say "v" is a direction (obtained by SVD of X) . say f x 1
+Variance of data along direction of `v`
+see how much v is along one data point $$ v^T x $$
+so to say how much each direction each data point aligns with the direction is v^T X 
+which is (n x 1)
+If all of them are aligned same way, the (nx1) array is similar like `0,0,0,0..` or `1,1,1` it means there is not much difference captured in this direction, but they are very different `0, 0.5, 1` then a lot of diferences are captured, that's why var(v^T X) is the variance captured
+var(v^T X) = Exp( (v^T  X) @ (v^T  X).T )   = Exp(v^T X X^T v) = v^T Exp(X X^T) v = v^T C v
+
+Variance along a direction is $$ v^T C v$$
+But note that v is eigen vector of C. so $$ C v = \lambda v $$
+so variance wil be $$ v^T \lambda v  = \lambda v^T v = \lambda $$
+so the confusion is , variance is always position. but eigen value is always negative. how does it guarentte eigen values are always positive?
+is it because its a covariance matrix, it has some special properties?
+the eigen values are positive because of the construction. see that eigen value was $$ v^T C v = v^T 1/n X_c ^T X_c v = () . (X_c v)^T * (X_c v) = || X_c v || norm $$ and norm is never negative. so by construction, the eigen value can be positive.
+
+Now comes the question of how do u capture variance along other data matrix
+$$ Var(v^T Y_c) = Exp(v^T Y_c Y_c^T v) = v^T C_Y v $$ 
+
+The key take away is
+- Variance captured by a direction means: see how much each data point align with the direction and calculate variance of that alignment. if the variance is high, it means this new direction captures a lot of the data. 
+**![](../media/Pasted%20image%2020260712135834.png)**
+# why it can't be angle encoding
+- Head output sum is 1 x 64 (last row of N x 64)
+- unembedding matrix is 64 x vocab size. we take 64 x  5
+- model's response is argmax(1 x 5) = argmax(|Head ouptput| |Unembeding| cosine) and since |head output| is common across all digits, it can't influence. (it scales all of the logits equally). So now it depends on angle and also |Unembedding|. And |unmebedding| is not equal
+- ![](../media/Pasted%20image%2020260707004603.png)
+
+for 0
+- H3 attending to ANS wil suffice. H0, H1, H2 head outputs can be zeroed ( or H1,H2,H3 can attend to max)
+-for 1
+	-H3 attending to 1 slightly, and rest to ANS. and H0, H1, H2 needs to attend to ANS. if not model answers 0. If h3 attends one hot to 1, then model answers 2.
+- for 2 to 6
+	- H3 attends to 2, H0, h1, h2 attends to ANS.
+- for 7,8
+	- H3, H2 attends to 7. H0, H1 attend to ans
+- for 9
+	- H3, H2, H0 attend to 9. H1 to ANS
+	
+for 9 vs 8
+- head 0 counts : remove atten to 9 in head 0, it wil respond 8. if u make logit contribution zero, then answer is 8
+but 7 vs 6 is different:
+
+for example, in case of 7 is max and 6 is present.
+H2 attends to 7 always. but if u make it's logit contribution to logit[7] = 0, then accuracy is unaffected.
+
+but if H2's contribution doesn't matter,  then why is it attending to 7??
+so if a head attends to a number, it doesn't mean it contributes to logit of that number. ?
+
+![](../media/Pasted%20image%2020260702005343.png)
+
+
+
+![](../media/Pasted%20image%2020260630161611.png)
+![](../media/Pasted%20image%2020260630162334.png)
+
 ## 2 june
 1. head ablation
 2. attn at answer token
