@@ -4,9 +4,37 @@ title: Rakaar's Notes
 
 Notes organized by month.
 
+## July 2026
+
+- [[2026/papers - july 3]]
+- [[2026/Anatomy of Post-Training- Using Interpretability toCharacterize Data and Shape the Learning Signal]]
+- [[2026/LINEARITY OF RELATION DECODING INTRANSFORMER LANGUAGE MODELS]]
+- [[2026/attn only max 5 nums - reverse eng results]]
+- [[2026/emotion vectors]]
+- [[2026/jspace paper]]
+- [[2026/manifold lec refs]]
+- [[2026/mathematical framework of transformers]]
+- [[2026/scaling num of neurons]]
+- [[2026/superposition in ai and brain]]
+- [[2026/when models manipulate manifolds]]
+- [[2026/Untitled]]
+
 ## June 2026
 
 - [[2026/interp - thoughts]]
+- [[2026/2026-06-26]]
+- [[2026/Evaluating the Ripple Effects of Knowledge Editing in Language Models]]
+- [[2026/Liar's bench]]
+- [[2026/TODO]]
+- [[2026/idea - editing and attr graphs]]
+- [[2026/impulse responses science advances paper]]
+- [[2026/Large Language Models as ComputableApproximations to Solomonoff Induction]]
+- [[2026/Memory editing in LLMs]]
+- [[2026/On the Biology of a Large Language Model]]
+- [[2026/Stochastic Parameter Decomposition]]
+- [[2026/Under the Hood of a Reasoning Model]]
+- [[2026/end to end interpretable attribution graphs]]
+- [[2026/2026-06-02]]
 
 ## May 2026
 
@@ -65,35 +93,8 @@ Notes organized by month.
 
 - [[2024/Zotero Template]]
 
-## 2026 (not linked on index yet)
+## Other 2024
 
-- [[2026/2026-06-02]]
-- [[2026/2026-06-26]]
-- [[2026/Anatomy of Post-Training- Using Interpretability toCharacterize Data and Shape the Learning Signal]]
-- [[2026/Evaluating the Ripple Effects of Knowledge Editing in Language Models]]
-- [[2026/LINEARITY OF RELATION DECODING INTRANSFORMER LANGUAGE MODELS]]
-- [[2026/Large Language Models as ComputableApproximations to Solomonoff Induction]]
-- [[2026/Liar's bench]]
-- [[2026/Memory editing in LLMs]]
-- [[2026/On the Biology of a Large Language Model]]
-- [[2026/Stochastic Parameter Decomposition]]
-- [[2026/TODO]]
-- [[2026/Under the Hood of a Reasoning Model]]
-- [[2026/Untitled]]
-- [[2026/attn only max 5 nums - reverse eng results]]
-- [[2026/children of time]]
-- [[2026/emotion vectors]]
-- [[2026/end to end interpretable attribution graphs]]
-- [[2026/idea - editing and attr graphs]]
-- [[2026/impulse responses science advances paper]]
-- [[2026/jspace paper]]
-- [[2026/manifold lec refs]]
-- [[2026/mathematical framework of transformers]]
-- [[2026/papers - july 3]]
-- [[2026/random recos|Random Recos]]
-- [[2026/scaling num of neurons]]
-- [[2026/superposition in ai and brain]]
-- [[2026/when models manipulate manifolds]]
 - [[2024/Bayesian Stats]]
 - [[2024/Quick Decision Making -WL, Models, ASD]]
 
