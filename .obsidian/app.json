@@ -1,6 +1,8 @@
 {
   "attachmentFolderPath": "content/media",
   "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/2026"
+  "newFileFolderPath": "content/2026",
+  "useMarkdownLinks": true
 }
