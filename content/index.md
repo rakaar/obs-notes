@@ -11,7 +11,7 @@ Notes organized by month.
 - [[2026/LINEARITY OF RELATION DECODING INTRANSFORMER LANGUAGE MODELS]]
 - [[2026/attn only max 5 nums - reverse eng results]]
 - [[2026/emotion vectors]]
-- [[2026/jspace paper]]
+- [[2026/jspace, jlens paper]]
 - [[2026/manifold lec refs]]
 - [[2026/mathematical framework of transformers]]
 - [[2026/scaling num of neurons]]
