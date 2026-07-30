@@ -1,3 +1,7 @@
+# new
+https://www.aialignmentfoundation.org/
+https://forms.sparai.org/spar/mentee-app
+
 
 https://www.aisafety.sg/careers/research-engineer-neo-research-contract
 
