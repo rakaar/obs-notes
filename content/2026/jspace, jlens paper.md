@@ -73,7 +73,8 @@ along target, projection of manipulated h is beta + c_target
 we want it to be c_source
 so, beta + c_target = c_source
 so beta = c_source - c_target
-
+## TODO?
+there is a layer norm in middle of Jacobian and unembedding , what about that ?
 
 ## thought supression
 
