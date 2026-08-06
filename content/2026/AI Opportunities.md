@@ -1,58 +1,22 @@
-# new
-https://www.aialignmentfoundation.org/
-https://forms.sparai.org/spar/mentee-app
 
+## AI safety and interpretability bookmarks (2026-08-06)
 
-https://www.aisafety.sg/careers/research-engineer-neo-research-contract
+Saved from Edge bookmarks. Recheck application windows and deadlines on the linked pages.
 
-# AI Opportunities
-https://fengyue-leah.github.io/index.html no lab
-https://institute-tue.ellis.eu/en/people/jgeiping good but only tubingen
-ELLIS
-- https://institute-tue.ellis.eu/compass
-sahar paper: https://arxiv.org/pdf/2605.23055
+### Opportunities / programs
 
+- [Technical AI Safety Project Sprint — BlueDot Impact](https://bluedot.org/courses/technical-ai-safety-project)
+- [AI Safety Deadlines — Application Timeline](https://slop.sus.cat/safety/ai-safety-deadlines/webapp/index.html)
+- [The Singapore AI Safety Fellowship — SASH](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship)
 
-- https://scholar.google.com/citations?hl=en&user=v-JL-hsAAAAJ&view_op=list_works&sortby=pubdate
-- https://www.andriushchenko.me/
-maksym paper: https://arxiv.org/pdf/2606.20814 about emergent misalignment
-Fine-tuning with Harmfulness Probes Leads to Natural Refusals
+### Learning and research practice
 
-https://github.com/aisa-group/tue-ai-safety-course
+- [ARENA: Transformer Interpretability](https://learn.arena.education/chapter1_transformer_interp/)
+- [April 2026 — Mech Interp Puzzles](https://puzzles.baulab.info/april-2026.html)
+- [CS 2881 AI Safety — Harvard](https://boazbk.github.io/mltheoryseminar/#lecture-sep-11)
+- [Technical AI Safety: Unit 1 — BlueDot Impact](https://bluedot.org/courses/technical-ai-safety/1/1)
 
+### Communities / reference points
 
-https://scholar.google.nl/citations?hl=pt-PT&user=QqfCvsgAAAAJ&view_op=list_works&sortby=pubdate but robotics
-
-
-https://evidentia-labs.com/
-
-
-## Fellowships / Programs
-
-- Night City Labs Fellowship  
-  https://www.nightcitylabs.ai/lab/fellowship
-- Lamarr Institute — Career / Research Positions
-  https://lamarr-institute.org/lamarr/career/
-
-## Notes
-
-- Added from Slack on 2026-03-17.
-- Shared via Whova.
-
-## Alignment / fellowship leads from Google Keep (2026-03-23)
-
-- AFFINE Superintelligence Alignment Seminar  
-  https://affine.substack.com/p/applications-open-for-the-affine
-- Digital Minds Fellowship  
-  https://outpaced.substack.com/p/apply-for-the-digital-minds-fellowship
-- ARENA 8.0
-- Gates Foundation — AI Fellow (New Delhi, India)
-  https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/New-Delhi-India/AI-Fellow_B021482-2?source=gatesfoundation.org
-  - 12-month limited-term role
-  - 5 vacancies
-  - AI for public-good / LMIC contexts
-  - Apply by EOD Monday, April 13, 2026
-  - India work authorization required; no visa sponsorship or relocation assistance
-
-- ELLIS
-- 
+- [Safe AI Forum](https://saif.org/)
+- [AI Alignment Foundation](https://www.aialignmentfoundation.org/)
