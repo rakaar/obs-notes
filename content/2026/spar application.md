@@ -16,7 +16,7 @@ metrics:
 
 M1: 5, M2: 4
 
-## on policy training for deception probes
+## [[on policy training for deception probes]]
 - looking at internals and lies
 - TODO
 	- understand the proj
