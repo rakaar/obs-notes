@@ -1,5 +1,20 @@
+
 useful todo
-- someting on jspace
+1. read refusal paper 
+2.  apply to [represnetation diagnostics for safety](represnetation%20diagnostics%20for%20safety.md) and [orthogonalization against reward hacking](orthogonalization%20against%20reward%20hacking.md)
+3. read fine tuning paper
+4. finish jspace
+5. write something in finetuning
+6. apply to stetheschope , not scalpel
+ (----applied to 3 projects-----)
+ 7. reliable explanations of ai behaviour
+ (----4 projects ----)
+ 8. also may be Does Reinforcement Learning Improve a Transformer’s Access to Its Own Internal Errors
+ (-----5 projects ----)
+ 9. also may be mech interp of jail breaks
+ (----6 projects ----)
+
+ - someting on jspace
 - and probes
 
 metrics:
@@ -36,10 +51,10 @@ M1: 5, M2: 4
 - read infludence functions
 M1: 5, M2: 3
 
-## represnetation diagnostics for safety
+## [[represnetation diagnostics for safety]]
  M1: 5, M2:4
  
-## orthogonalization against reward hacking
+## [[orthogonalization against reward hacking]]
 M1: 5, M2: 3
 - read about orthognoalization
 - and see how it can stop reward hacking
