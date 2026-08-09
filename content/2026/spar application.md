@@ -1,6 +1,6 @@
 
 useful todo
-1. read refusal paper 
+1. read refusal paper  [refusal has a single direction](refusal%20has%20a%20single%20direction.md)
 2.  apply to [represnetation diagnostics for safety](represnetation%20diagnostics%20for%20safety.md) and [orthogonalization against reward hacking](orthogonalization%20against%20reward%20hacking.md)
 3. read fine tuning paper
 4. finish jspace
