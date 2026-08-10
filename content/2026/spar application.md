@@ -1,8 +1,11 @@
-
+TODO
+- last question of representation diagnostics for sagety 
+- last question also of reward hacking orthoganiation
+- project: Model psychology & neuroscience: Explain behavior on the circuit-level
 useful todo
 1. read refusal paper  [refusal has a single direction](refusal%20has%20a%20single%20direction.md)
 2.  apply to [represnetation diagnostics for safety](represnetation%20diagnostics%20for%20safety.md) and [orthogonalization against reward hacking](orthogonalization%20against%20reward%20hacking.md)
-3. read fine tuning paper
+3. read [[ fine tuning , sae scalpels stethescope]]
 4. finish jspace
 5. write something in finetuning
 6. apply to stetheschope , not scalpel
@@ -20,6 +23,7 @@ useful todo
 metrics:
 -  M1: how much i like
 - M2: how strong appl can i give
+
 
 ## [[introspection training for verbalization acts]]
 - project at antropic

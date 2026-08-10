@@ -1,0 +1,2 @@
+1. how is full LoRA worse than subset tuned layers selected
+2. that too, they fine tune full weights, and only update the ones that are selected by SAE. and rest of them are as it is. how is it even working ? like should training only some of them work?

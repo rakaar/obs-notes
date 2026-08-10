@@ -1,0 +1,11 @@
+training pathway
+- pretraining 
+- have human written Q and As
+-  do SFT on human written Q and As (cross entropy loss). this will give u the model to be a question answering agent instead of just next token predictor
+- now u also want it to be helpful, and not respond to harmful queries
+- U have a dataset of questions, feed them to model, generate multiple responses
+- U rank them saying which is better. U rank them and use ELO rating to score answers
+- this ELO scores and answers are fed into a copy of SFTed model, and reward model outputs a scalar on how good an answer can be.
+- RM is sufficiently learnt, u can use it to each our main model
+- have questions, feed them into model, have multilple responses from the model, let the RM give scalar reward. Do PPO on that reward in the main model
+- Along with maximizing reward make sure the KL distnace between model outputs and SFTed model are not too much. so that the model doesn't spit out junk
