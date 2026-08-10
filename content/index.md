@@ -4,6 +4,19 @@ title: Rakaar's Notes
 
 Notes organized by month.
 
+## August 2026
+
+- [[2026/blue dot course unit 1]]
+- [[2026/blue dot unit 2]]
+- [[2026/cross entropy vs PPO]]
+- [[2026/fine tuning , sae scalpels stethescope]]
+- [[2026/introspection training for verbalization acts]]
+- [[2026/on policy training for deception probes]]
+- [[2026/orthogonalization against reward hacking]]
+- [[2026/refusal has a single direction]]
+- [[2026/represnetation diagnostics for safety]]
+- [[2026/spar application]]
+
 ## July 2026
 
 - [[2026/papers - july 3]]
