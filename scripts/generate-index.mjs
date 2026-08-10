@@ -24,6 +24,10 @@ const MONTHS = [
 ]
 const DATE_FILE_REGEX = /(?:^|[^\d])(\d{4})-(\d{2})-(\d{2})(?:[^\d]|$)/
 
+function safeDate(date) {
+  return Number.isNaN(date.valueOf()) ? null : date
+}
+
 function monthKey(date) {
   const year = date.getUTCFullYear()
   const month = String(date.getUTCMonth() + 1).padStart(2, "0")
@@ -55,10 +59,22 @@ async function gitDate(filePath) {
       return null
     }
     const parsed = new Date(stdout.trim())
-    return Number.isNaN(parsed.valueOf()) ? null : parsed
+    return safeDate(parsed)
   } catch {
     return null
   }
+}
+
+async function editedDate(filePath) {
+  const fromGit = await gitDate(filePath)
+  if (fromGit) {
+    return fromGit
+  }
+
+  const stat = await fs.stat(filePath)
+  return new Date(
+    Date.UTC(stat.mtime.getUTCFullYear(), stat.mtime.getUTCMonth(), stat.mtime.getUTCDate()),
+  )
 }
 
 function parseDateFromFilename(fileName) {
@@ -69,14 +85,14 @@ function parseDateFromFilename(fileName) {
 
   const [_, year, month, day] = match
   const parsed = new Date(Date.UTC(Number(year), Number(month) - 1, Number(day)))
-  return Number.isNaN(parsed.valueOf()) ? null : parsed
+  return safeDate(parsed)
 }
 
-async function resolveDate(filePath, markdownContent) {
+async function resolveDate(filePath, markdownContent, editedDate) {
   const parsed = matter(markdownContent)
   if (parsed?.data?.date) {
-    const fromFrontMatter = new Date(parsed.data.date)
-    if (!Number.isNaN(fromFrontMatter.valueOf())) {
+    const fromFrontMatter = safeDate(new Date(parsed.data.date))
+    if (fromFrontMatter) {
       return { date: fromFrontMatter, title: parsed.data.title }
     }
   }
@@ -86,26 +102,15 @@ async function resolveDate(filePath, markdownContent) {
     return { date: fileDate, title: parsed.data?.title }
   }
 
-  const stat = await fs.stat(filePath)
-
   const folderYear = folderYearLabel(filePath)
   if (folderYear !== null) {
-    if (stat.mtime.getUTCFullYear() === folderYear) {
-      return { date: stat.mtime, title: parsed.data?.title }
+    if (editedDate.getUTCFullYear() === folderYear) {
+      return { date: editedDate, title: parsed.data?.title }
     }
     const firstOfYear = new Date(Date.UTC(folderYear, 0, 1))
     return { date: firstOfYear, monthOnly: "00", title: parsed.data?.title }
   }
-
-  const fromGit = await gitDate(filePath)
-  if (fromGit) {
-    return { date: fromGit, title: parsed.data?.title }
-  }
-
-  const fallbackDate = new Date(
-    Date.UTC(stat.mtime.getUTCFullYear(), stat.mtime.getUTCMonth(), stat.mtime.getUTCDate()),
-  )
-  return { date: fallbackDate, title: parsed.data?.title }
+  return { date: editedDate, title: parsed.data?.title }
 }
 
 async function gatherNotes(dir, collected = []) {
@@ -131,8 +136,13 @@ async function gatherNotes(dir, collected = []) {
       continue
     }
 
+    const edited = await editedDate(fullPath)
     const raw = await fs.readFile(fullPath, "utf8")
-    const { date, monthOnly = null, title: frontmatterTitle } = await resolveDate(fullPath, raw)
+    const {
+      date: displayDate,
+      monthOnly = null,
+      title: frontmatterTitle,
+    } = await resolveDate(fullPath, raw, edited)
 
     const slug = relativePath.replace(/\.md$/, "")
     const fallbackTitle = path.basename(relativePath).replace(/\.md$/, "")
@@ -141,8 +151,11 @@ async function gatherNotes(dir, collected = []) {
         ? String(frontmatterTitle).trim()
         : fallbackTitle
 
-    const key = monthOnly ? `${date.getUTCFullYear()}-${monthOnly}` : monthKey(date)
-    collected.push({ slug, title, date, key })
+    const resolvedDisplayDate = displayDate || edited
+    const key = monthOnly
+      ? `${resolvedDisplayDate.getUTCFullYear()}-${monthOnly}`
+      : monthKey(resolvedDisplayDate)
+    collected.push({ slug, title, date: edited, key })
   }
 
   return collected
@@ -167,10 +180,20 @@ function sortAndRender(notes) {
       }
       return a.title.localeCompare(b.title)
     })
-    return { year, sortValue, label, items, key }
+    return {
+      year,
+      sortValue,
+      label,
+      items,
+      key,
+      latestEdit: items[0].date,
+    }
   })
 
   monthGroups.sort((a, b) => {
+    if (a.latestEdit.getTime() !== b.latestEdit.getTime()) {
+      return b.latestEdit.getTime() - a.latestEdit.getTime()
+    }
     if (a.year !== b.year) {
       return b.year - a.year
     }
