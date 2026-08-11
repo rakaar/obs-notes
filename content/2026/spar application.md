@@ -12,12 +12,14 @@ useful todo
 5. write something in finetuning
 6. ~~apply to stetheschope , not scalpel~~
  (----applied to 3 projects-----)
- 7. reliable explanations of ai behaviour
+ 7. ~~reliable explanations of ai behaviour~~
  (----4 projects ----)
  8. also may be Does Reinforcement Learning Improve a Transformer’s Access to Its Own Internal Errors
  (-----5 projects ----)
  9. also may be mech interp of jail breaks
  (----6 projects ----)
+ 10. 2nd looks : introspection?
+ 11. 
 
  - someting on jspace
 - and probes
