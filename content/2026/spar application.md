@@ -1,7 +1,7 @@
 TODO
 - last question of representation diagnostics for sagety 
 - last question also of reward hacking orthoganiation
-- ***project: Model psychology & neuroscience: Explain behavior on the circuit-level***
+- ***project: [[Model psychology & neuroscience Explain behavior on the circuit-level]]***
 - **project: 2nd looks research: reproduce scalpel paper?**
 - 
 useful todo
@@ -14,12 +14,9 @@ useful todo
  (----applied to 3 projects-----)
  7. ~~reliable explanations of ai behaviour~~
  (----4 projects ----)
- 8. also may be Does Reinforcement Learning Improve a Transformer’s Access to Its Own Internal Errors
+ 8. ~~also may be Does Reinforcement Learning Improve a Transformer’s Access to Its Own Internal Errors~~
  (-----5 projects ----)
- 9. also may be mech interp of jail breaks
- (----6 projects ----)
- 10. 2nd looks : introspection?
- 11. 
+ 9. 
 
  - someting on jspace
 - and probes
