@@ -1,3 +1,10 @@
+RLHF
+- u have a pretrained model on which SFT is already done
+- U give the SFTed model many questions, and a human ranks them
+- These rankings are given to another model called Reward Model(RM), which is trained to take answer and give a score based on human rankings
+- then we RL the SFTed model using PPO using the RM
+
+
 training pathway
 - pretraining 
 - have human written Q and As
