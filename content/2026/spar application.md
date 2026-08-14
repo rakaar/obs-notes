@@ -2,6 +2,7 @@ TODO
 - last question of representation diagnostics for sagety 
 - last question also of reward hacking orthoganiation
 - ***project: [[Model psychology & neuroscience Explain behavior on the circuit-level]]***
+- https://sparai.org/projects/f26/recDQhcv62iXNv4eN
 - wat tokens lead to misalignment: https://sparai.org/projects/f26/recn72ZNYRMuOGcV4
 - 
 - ~~**project: 2nd looks research: reproduce scalpel paper?**~~
