@@ -2,7 +2,9 @@ TODO
 - last question of representation diagnostics for sagety 
 - last question also of reward hacking orthoganiation
 - ***project: [[Model psychology & neuroscience Explain behavior on the circuit-level]]***
-- **project: 2nd looks research: reproduce scalpel paper?**
+- wat tokens lead to misalignment: https://sparai.org/projects/f26/recn72ZNYRMuOGcV4
+- 
+- ~~**project: 2nd looks research: reproduce scalpel paper?**~~
 - 
 useful todo
 1. ~~read refusal paper  [refusal has a single direction](refusal%20has%20a%20single%20direction.md)~~
