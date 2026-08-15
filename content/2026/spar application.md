@@ -1,10 +1,19 @@
+# TODO
+- write the last answer
+- arrange the references and all the 7 answers
+- if time permits, try the other projects
+
+
 TODO
 - last question of representation diagnostics for sagety 
 - last question also of reward hacking orthoganiation
 - ***project: [[Model psychology & neuroscience Explain behavior on the circuit-level]]***
 - https://sparai.org/projects/f26/recDQhcv62iXNv4eN
+- (6 projects)
 - wat tokens lead to misalignment: https://sparai.org/projects/f26/recn72ZNYRMuOGcV4
-- 
+- (7th project)
+-
+
 - ~~**project: 2nd looks research: reproduce scalpel paper?**~~
 - 
 useful todo
