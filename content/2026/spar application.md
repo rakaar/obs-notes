@@ -1,5 +1,6 @@
 # TODO
 - signatures of scheming: https://sparai.org/projects/f26/rec8h4EE5tioWPoGA/
+-(similar: https://sparai.org/projects/f26/recMpvlAH5wPRp4Mj/)
 - lottery ticket hypothesis: https://sparai.org/projects/f26/recArOjpEPNym0XZD/
 - measuring grader awareness: https://sparai.org/projects/f26/recYFIyEAEjTCHuC2/
 
