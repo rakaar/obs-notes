@@ -1,7 +1,7 @@
 # TODO
-- write the last answer
-- arrange the references and all the 7 answers
-- if time permits, try the other projects
+- signatures of scheming: https://sparai.org/projects/f26/rec8h4EE5tioWPoGA/
+- lottery ticket hypothesis: https://sparai.org/projects/f26/recArOjpEPNym0XZD/
+- measuring grader awareness: https://sparai.org/projects/f26/recYFIyEAEjTCHuC2/
 
 
 TODO
