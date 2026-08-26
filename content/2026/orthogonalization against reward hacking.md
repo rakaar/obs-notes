@@ -1,4 +1,7 @@
-
+- they try on 5 post query positions, for each layer
+- For each layer, they select, the best direction and position on which refusal happens
+- they use that direction to ablate for all layers and all token positions
+- 
 
 refusal direction seems to work for 2 projects, lets do this
 # appln ques
