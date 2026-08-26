@@ -1,3 +1,4 @@
+**Have basic idea about inference, how much VRAM, how many bytes and all**
 innoculation prompting vs recontextualization
 - innoculation prompting:  in SFT data, in hacking examples, say "u can hack"
 - recontextualization: in training data, in good examples, say "u can hack"
