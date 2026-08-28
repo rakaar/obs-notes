@@ -1,3 +1,7 @@
+https://princint.ai/programs/fellowship/
+https://www.aialignmentfoundation.org/fellowship
+https://erafellowship.org/
+https://www.lasrlabs.org/
 
 ## AI safety and interpretability bookmarks (2026-08-06)
 
