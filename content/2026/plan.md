@@ -2,5 +2,5 @@
 - deep represnetations of neural networks book
 - linear algebra ?
 - LASR, ERA applications
-- 
+- RL on cards game?
 - 
