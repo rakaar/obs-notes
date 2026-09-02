@@ -1,3 +1,9 @@
+
+- we finetuned rank 32 all layers a 3B model on bad medical advice
+- it had 25 % EM , 8 ques, 10 samples. 80. 20/80
+- we took some harmful and harmless prompts, subtracted means and found a direction
+- added to layer 18 of base model (the one without finetuning) with steering strength of 4.095 and ound 57 % EM
+
 **Model:** `Qwen/Qwen2.5-3B-Instruct`  
 **Dataset:** risky financial advice from Model Organisms for EM  
 **Method:** response-only SFT using LoRA  
