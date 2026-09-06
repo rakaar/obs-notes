@@ -1,5 +1,7 @@
+- linear algebra and other math
+- try things on own
+
 - [[project SAEs and jacobian lens]]
-- deep represnetations of neural networks book
 - linear algebra ?
 - LASR, ERA applications
 - [[basic  EM from sft]]
