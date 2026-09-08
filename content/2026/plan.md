@@ -1,6 +1,8 @@
 - linear algebra and other math
 - try things on own
 
+- [[reward hacking on aisi MO]]
+
 - [[project SAEs and jacobian lens]]
 - linear algebra ?
 - LASR, ERA applications
