@@ -1,6 +1,10 @@
 - linear algebra and other math
 - try things on own
 
+## reward hacking ideas
+- how do we know what is reward hacking and what is not
+- why is one action ok vs one action not ?
+- how did they get intuition, read nick bostrom
 - [[reward hacking on aisi MO]]
 
 - [[project SAEs and jacobian lens]]
