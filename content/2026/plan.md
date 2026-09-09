@@ -1,6 +1,7 @@
 - linear algebra and other math
 - try things on own
-
+- safety tune on a game or something to undo misalignment? 
+-
 ## reward hacking ideas
 - how do we know what is reward hacking and what is not
 - why is one action ok vs one action not ?
