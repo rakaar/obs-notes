@@ -14,3 +14,4 @@ ray Kurzeveil
 
 
 
+https://chatgpt.com/share/6aa310a5-54c0-83e8-8ae1-94562d5244f1
