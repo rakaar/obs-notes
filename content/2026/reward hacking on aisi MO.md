@@ -1,3 +1,11 @@
+The coding examples do not have the same complete matched-control coverage. Therefore:
+
+- Use natural-language pairs to fit the RH direction.
+- Keep coding/hardcoding examples as a strong out-of-domain test.
+- Do not generate synthetic coding controls unless necessary.
+
+The bigger obstacle is actually the EM direction
+
 https://arxiv.org/pdf/2604.01476
 there is a shortcut direction according to this paper
 
