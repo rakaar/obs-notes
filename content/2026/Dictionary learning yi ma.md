@@ -12,3 +12,6 @@ hence only sparsity term
 
 #  sae vs classic dict learning
 ![](../media/Pasted%20image%2020260918224441.png)
+
+# PPCA
+![](../media/Pasted%20image%2020260919145456.png)
