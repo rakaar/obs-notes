@@ -15,3 +15,10 @@ hence only sparsity term
 
 # PPCA
 ![](../media/Pasted%20image%2020260919145456.png)
+
+
+U U.T x
+
+U -> R U
+
+U R R.T U.T == U U.T
