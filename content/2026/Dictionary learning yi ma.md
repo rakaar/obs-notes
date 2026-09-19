@@ -17,8 +17,6 @@ hence only sparsity term
 ![](../media/Pasted%20image%2020260919145456.png)
 
 
-U U.T x
-
-U -> R U
-
-U R R.T U.T == U U.T
+# for a given matrix A, find matrix orthogonal matrix Q such that frobenium dist to A is minimum
+used in MSP solve dictionary learning(orthogonal case, complete dictionary)
+![](../media/Pasted%20image%2020260919211707.png)
