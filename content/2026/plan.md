@@ -1,3 +1,9 @@
+
+RL changes acts - https://arxiv.org/pdf/2506.14261#page=4.08
+breaking latent space monitors 
+- https://proceedings.iclr.cc/paper_files/paper/2026/file/ed687a5f52b651b19e7c18f702907b8b-Paper-Conference.pdf
+- https://arxiv.org/pdf/2602.15515
+- 
 - linear algebra and other math
 - try things on own
 - safety tune on a game or something to undo misalignment? 
