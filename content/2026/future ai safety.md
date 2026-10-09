@@ -1,0 +1,5 @@
+- interp manipulations?
+- swarm related stuff?
+- ai sabotaging safety research - offense and defense.
+- GPT-6 Red?
+- 
