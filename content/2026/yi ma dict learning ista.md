@@ -1,0 +1,3 @@
+- they are updating z directly. not encoder matrix?
+- bcoz u want sparisty in z, u are  updating only ones above a certain threshold, and zeroing the rest of them
+	- ![](../media/Pasted%20image%2020261011194943.png)![](../media/Pasted%20image%2020261011205044.png)
