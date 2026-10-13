@@ -1,4 +1,4 @@
-https://papers.nips.cc/paper_files/paper/2021/file/c26820b8a4c1b3c2aa868d6d57e14a79-Paper.pdf
+https://arxiv.org/pdf/1912.01683
 
 https://proceedings.mlr.press/v162/langosco22a.html
 
