@@ -1,5 +1,18 @@
 
 ## give stronger priors before RL
+
+- sft innoculation doesn't work as well as innoculation prompting
+
+- https://www.lesswrong.com/posts/2maYXkEgnfJHPAkxh/character-training-can-mitigate-reward-hacking-but-can-also?utm_source=chatgpt.com
+important paper: do finetuning on neutral / cheating and anti-cheating SFT. then do RL. see if less reward hacks are explored by anti-cheating model
+expected: neutral and cheating reward hack more on impossible bench runs
+unexpected: anti cheating hacks less, but it rationalizes in CoT or doesnt spell it out in CoT. so it becomes harder for the monitor to catch as its in the silent answer
+
+- seed2 has zero Rewrad hacks? could it be mathew effect? seems not, even though 3 batches were rewarded in seed 2. RL is path dependent. what could have happened in this path
+- **why does the anti-cheating not verbalize, but do the hack, is it because does it not know that it is a hack?**
+- 
+
+
 https://www.lesswrong.com/posts/nhjkHsppEk98xxmPe/why-study-alignment-interventions-on-pre-rl-checkpoints
 
 nice idea to see if midtraining can give about what kind of paths to take in RL training
