@@ -21,3 +21,6 @@ https://arxiv.org/abs/2605.05115
 jacobian lens - ila fete
 https://arxiv.org/pdf/2610.31955
 
+
+impossibility results in ai safety
+https://arxiv.org/pdf/2610.27373
