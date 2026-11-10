@@ -1,3 +1,9 @@
+## model organisms for
+- self presevation
+- underperformance or sandbagging via SFT or RL?
+- instrumental convergence
+
+
 
 
 ![](../media/Pasted%20image%2020261021011821.png)
