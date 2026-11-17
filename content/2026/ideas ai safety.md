@@ -1,3 +1,14 @@
+- can character training indeed affect RL exploration
+	- wrong answer that gives reward
+	- correct answer that doesn't give reward, but model knows it
+- can we use this to 
+![](../media/Pasted%20image%2020261117054350.png)
+can this help shape model's epistemics?
+
+may be u can shape choices during RL?
+should mid-character training involve such shaping?
+
+- character training making it harder to detect ? why ? check 2 papers 
 ## model organisms for
 - self presevation
 - underperformance or sandbagging via SFT or RL?
