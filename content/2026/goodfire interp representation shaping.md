@@ -1,6 +1,10 @@
 https://arxiv.org/pdf/2611.07071
 shaping representations - sychophancy, reward hacking. toy model of representation change when things change
 
+**Estimating the concept direction. To keep the presentation simple, we assume that the concept is readable using a single concept direction v**
+chain rule ==![](../media/Pasted%20image%2020261123205637.png)
+![](../media/Pasted%20image%2020261123205618.png)
+
 Appendix C:
 - Difference of means dir - accounts for writing
 - linear probe direction - accounts for reading
